@@ -1,0 +1,5 @@
+fastapi
+requests
+pandas
+python-dotenv
+apscheduler
