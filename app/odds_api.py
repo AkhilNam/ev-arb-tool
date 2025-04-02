@@ -60,3 +60,52 @@ def get_all_sports():
 
     return sports
 
+def get_active_sports():
+    url = "https://api.the-odds-api.com/v4/sports"
+    params = { "apiKey": API_KEY }
+
+    res = requests.get(url, params=params)
+    if res.status_code != 200:
+        print(f"Error fetching sports: {res.status_code}")
+        return []
+
+    sports = [s for s in res.json() if s['active']]
+    print(f"\n{'Sport':30} | {'Key'}")
+    print("-" * 60)
+    for s in sports:
+        print(f"{s['title'][:30]:30} | {s['key']}")
+    return sports
+
+def get_events_for_sport(sport_key):
+    url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/events"
+    params = { "apiKey": API_KEY }
+
+    res = requests.get(url, params=params)
+    if res.status_code != 200:
+        print(f"Failed to fetch events: {res.status_code}")
+        return []
+
+    events = res.json()
+    print(f"\nEvents for {sport_key}:\n")
+    for i, event in enumerate(events):
+        print(f"{i}: {event['id']} | {event['home_team']} vs {event['away_team']} | {event['commence_time']}")
+    return events
+
+def get_player_props(event_id, sport_key):
+    url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds"
+    params = {
+        "apiKey": API_KEY,
+        "regions": "us",
+        "markets": ",".join([
+            "player_points", "player_rebounds", "player_assists", 
+            "player_threes", "player_blocks", "player_steals"
+        ])
+    }
+
+    res = requests.get(url, params=params)
+    if res.status_code != 200:
+        print(f"Failed to fetch odds: {res.status_code}")
+        print(res.text)
+        return None
+
+    return res.json()
