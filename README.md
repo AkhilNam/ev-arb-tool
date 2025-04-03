@@ -25,8 +25,8 @@ This project extracts player prop odds from different sportsbooks, calculates im
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/sports-betting-odds-analysis.git
-   cd sports-betting-odds-analysis
+   git clone https://github.com/akhiln/ev-arb-tool.git
+   cd ev-arb-tool
    ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -56,7 +56,7 @@ This project extracts player prop odds from different sportsbooks, calculates im
    To fetch live data and process the props:
 
    ```bash
-   python sports_betting_pipeline.py
+   python main.py
    ```
 
    The script will pull player props data, process it, calculate EV, and save results to `props_outlier_ev.csv`.
