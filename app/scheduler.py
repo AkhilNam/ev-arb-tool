@@ -1,10 +1,10 @@
 import schedule
 import time
-from ev_pipeline import run_ev_pipeline  
+from automate import auto  
 
 def job():
-    print("Running EV pipeline job...")
-    run_ev_pipeline()
+    print("Placing bets...")
+    auto()
 
 def main():
     # Schedule the job every 10 minutes
