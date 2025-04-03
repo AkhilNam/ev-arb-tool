@@ -6,7 +6,7 @@ load_dotenv()
 API_KEY = os.getenv("THE_ODDS_API_KEY")
 BASE_URL = "https://api.the-odds-api.com/v4/sports"
 
-def fetch_odds(sport_key="basketball_nba", regions="us", markets="h2h,spreads", odds_format="american"):
+def fetch_odds(sport_key="basketball_nba", regions="us,us2,us_dfs,us_ex",  markets="h2h,spreads", odds_format="american"):
     url = f"{BASE_URL}/{sport_key}/odds"
     params = {
         "apiKey": API_KEY,
@@ -25,7 +25,7 @@ def list_bookmakers(sport_key="basketball_nba"):
     url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/odds"
     params = {
         "apiKey": API_KEY,
-        "regions": "us",
+        "regions": "us,us2,us_dfs,us_ex",
         "markets": "h2h",
     }   
     res = requests.get(url, params=params)
@@ -93,18 +93,21 @@ def get_events_for_sport(sport_key):
 
 def get_player_props(event_id, sport_key):
     url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds"
+
+    markets = [
+        "player_points", "player_rebounds", "player_assists"
+    ]
+
     params = {
         "apiKey": API_KEY,
-        "regions": "us",
-        "markets": ",".join([
-            "player_points", "player_rebounds", "player_assists", 
-            "player_threes", "player_blocks", "player_steals"
-        ])
+        "regions": "us,us2,us_dfs",
+        "markets": ",".join(markets),
+        "oddsFormat": "decimal"
     }
 
     res = requests.get(url, params=params)
     if res.status_code != 200:
-        print(f"Failed to fetch odds: {res.status_code}")
+        print(f"❌ Failed to fetch odds: {res.status_code}")
         print(res.text)
         return None
 

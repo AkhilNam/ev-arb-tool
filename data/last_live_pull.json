@@ -1,0 +1,988 @@
+{
+  "id": "f32c5ba7796dce04cd132e1291f038d7",
+  "sport_key": "basketball_nba",
+  "sport_title": "NBA",
+  "commence_time": "2025-04-02T23:40:00Z",
+  "home_team": "Boston Celtics",
+  "away_team": "Miami Heat",
+  "bookmakers": [
+    {
+      "key": "draftkings",
+      "title": "DraftKings",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-04-03T01:35:58Z",
+          "outcomes": [
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 2.0,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 1.77,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayson Tatum",
+              "price": 2.15,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayson Tatum",
+              "price": 1.68,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Bam Adebayo",
+              "price": 2.2,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Bam Adebayo",
+              "price": 1.65,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 2.95,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 1.38,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Davion Mitchell",
+              "price": 1.57,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Davion Mitchell",
+              "price": 2.35,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 3.1,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 1.35,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Payton Pritchard",
+              "price": 1.7,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Payton Pritchard",
+              "price": 2.1,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Luke Kornet",
+              "price": 10.5,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Luke Kornet",
+              "price": 1.05,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T01:35:58Z",
+          "outcomes": [
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 1.91,
+              "point": 26.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 1.83,
+              "point": 26.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.69,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 2.14,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayson Tatum",
+              "price": 1.71,
+              "point": 21.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayson Tatum",
+              "price": 2.1,
+              "point": 21.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 1.69,
+              "point": 18.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 2.14,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Bam Adebayo",
+              "price": 2.05,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Bam Adebayo",
+              "price": 1.74,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Davion Mitchell",
+              "price": 2.05,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Davion Mitchell",
+              "price": 1.74,
+              "point": 14.5
+            },
+            {
+              "name": "Under",
+              "description": "Luke Kornet",
+              "price": 1.74,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Luke Kornet",
+              "price": 2.05,
+              "point": 14.5
+            },
+            {
+              "name": "Over",
+              "description": "Payton Pritchard",
+              "price": 1.74,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "Payton Pritchard",
+              "price": 2.05,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "Alec Burks",
+              "price": 1.91,
+              "point": 10.5
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burks",
+              "price": 1.83,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "Kel'el Ware",
+              "price": 1.83,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Kel'el Ware",
+              "price": 1.91,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Hauser",
+              "price": 1.87,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam Hauser",
+              "price": 1.87,
+              "point": 6.5
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-04-03T01:35:58Z",
+          "outcomes": [
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 1.55,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 2.4,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 1.8,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.95,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Luke Kornet",
+              "price": 2.05,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Luke Kornet",
+              "price": 1.74,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Bam Adebayo",
+              "price": 1.46,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Bam Adebayo",
+              "price": 2.65,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Kel'el Ware",
+              "price": 2.15,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Kel'el Ware",
+              "price": 1.68,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 1.91,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 1.83,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Davion Mitchell",
+              "price": 2.26,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Davion Mitchell",
+              "price": 1.62,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayson Tatum",
+              "price": 1.62,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayson Tatum",
+              "price": 2.26,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Payton Pritchard",
+              "price": 2.7,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Payton Pritchard",
+              "price": 1.44,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Sam Hauser",
+              "price": 3.4,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Sam Hauser",
+              "price": 1.3,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Alec Burks",
+              "price": 1.24,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Alec Burks",
+              "price": 3.9,
+              "point": 2.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanatics",
+      "title": "Fanatics",
+      "markets": [
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T01:35:43Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 1.71,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 2.05,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 1.69,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 2.1,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Bam Adebayo",
+              "price": 1.71,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Bam Adebayo",
+              "price": 2.05,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Davion Mitchell",
+              "price": 2.4,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "Davion Mitchell",
+              "price": 1.44,
+              "point": 10.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fliff",
+      "title": "Fliff",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-04-03T01:36:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 2.6,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.4,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayson Tatum",
+              "price": 2.05,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayson Tatum",
+              "price": 1.62,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Bam Adebayo",
+              "price": 2.5,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Bam Adebayo",
+              "price": 1.43,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 3.6,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 1.22,
+              "point": 4.5
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T01:36:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 1.8,
+              "point": 25.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 1.83,
+              "point": 25.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 1.95,
+              "point": 22.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.69,
+              "point": 22.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayson Tatum",
+              "price": 2.1,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayson Tatum",
+              "price": 1.59,
+              "point": 18.5
+            },
+            {
+              "name": "Over",
+              "description": "Bam Adebayo",
+              "price": 1.51,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Bam Adebayo",
+              "price": 2.3,
+              "point": 17.5
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-04-03T01:36:25Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 2.65,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 1.4,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 2.3,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.51,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Bam Adebayo",
+              "price": 1.59,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Bam Adebayo",
+              "price": 2.1,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayson Tatum",
+              "price": 2.15,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayson Tatum",
+              "price": 1.57,
+              "point": 3.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "fanduel",
+      "title": "FanDuel",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-04-03T01:27:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jayson Tatum",
+              "price": 2.82,
+              "point": 8.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayson Tatum",
+              "price": 1.4,
+              "point": 8.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 1.85,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.89,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 1.72,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 2.04,
+              "point": 3.5
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T01:33:36Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 2.04,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.72,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 1.85,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 1.89,
+              "point": 18.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 1.89,
+              "point": 27.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 1.85,
+              "point": 27.5
+            },
+            {
+              "name": "Over",
+              "description": "Davion Mitchell",
+              "price": 2.48,
+              "point": 10.5
+            },
+            {
+              "name": "Under",
+              "description": "Davion Mitchell",
+              "price": 1.5,
+              "point": 10.5
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-04-03T01:27:07Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 1.42,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 2.74,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 1.56,
+              "point": 3.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 2.34,
+              "point": 3.5
+            },
+            {
+              "name": "Over",
+              "description": "Bam Adebayo",
+              "price": 2.42,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Bam Adebayo",
+              "price": 1.52,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Jayson Tatum",
+              "price": 1.89,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Jayson Tatum",
+              "price": 1.85,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Kel'el Ware",
+              "price": 2.52,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Kel'el Ware",
+              "price": 1.49,
+              "point": 6.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "hardrockbet",
+      "title": "Hard Rock Bet",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-04-03T01:33:19Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Davion Mitchell",
+              "price": 1.91,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Davion Mitchell",
+              "price": 1.77,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 1.8,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.91,
+              "point": 7.5
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T01:34:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 1.77,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 2.0,
+              "point": 17.5
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-04-03T01:34:22Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 2.1,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 1.65,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 2.2,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.57,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Kel'el Ware",
+              "price": 1.53,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Kel'el Ware",
+              "price": 2.35,
+              "point": 5.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "espnbet",
+      "title": "ESPN BET",
+      "markets": [
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T01:34:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 2.0,
+              "point": 18.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 1.71,
+              "point": 18.5
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-04-03T01:34:27Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Kel'el Ware",
+              "price": 1.54,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Kel'el Ware",
+              "price": 2.3,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 2.05,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.67,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Derrick White",
+              "price": 1.87,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Derrick White",
+              "price": 1.8,
+              "point": 4.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "williamhill_us",
+      "title": "Caesars",
+      "markets": [
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T01:32:01Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Tyler Herro",
+              "price": 1.77,
+              "point": 24.5
+            },
+            {
+              "name": "Under",
+              "description": "Tyler Herro",
+              "price": 1.91,
+              "point": 24.5
+            },
+            {
+              "name": "Over",
+              "description": "Jaylen Brown",
+              "price": 1.81,
+              "point": 26.5
+            },
+            {
+              "name": "Under",
+              "description": "Jaylen Brown",
+              "price": 1.86,
+              "point": 26.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

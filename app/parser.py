@@ -1,16 +1,16 @@
-def extract_props(data):
+def extract_props(bookmakers):
     props = []
-    for bookmaker in data.get("bookmakers", []):
-        book_name = bookmaker["title"]
-        for market in bookmaker.get("markets", []):
-            market_key = market["key"]
+    for book in bookmakers:
+        bookmaker = book["title"]
+        for market in book.get("markets", []):
+            market_key = market.get("key")
             for outcome in market.get("outcomes", []):
                 props.append({
-                    "bookmaker": book_name,
+                    "bookmaker": bookmaker,
                     "market": market_key,
-                    "player": outcome["name"],
+                    "player": outcome.get("description", "Unknown Player"),
+                    "side": outcome.get("name", ""),
                     "line": outcome.get("point"),
-                    "odds": outcome["price"],
-                    "side": "over" if "Over" in outcome["name"] else "under"
+                    "odds": outcome.get("price")
                 })
     return props
