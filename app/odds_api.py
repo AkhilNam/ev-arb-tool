@@ -95,7 +95,7 @@ def get_player_props(event_id, sport_key):
     url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds"
 
     markets = [
-        "player_points", "player_rebounds", "player_assists"
+        "player_points", "player_rebounds", "player_assists", "player_threes", "player_blocks", "player_points_rebounds_assists", "player_points_rebounds", "player_points_assists", "player_rebounds_assists"
     ]
 
     params = {
