@@ -76,7 +76,7 @@ def run_ev_pipeline():
     df["ev"] = df.apply(lambda row: calculate_ev(row["odds"], row["fair_prob"]), axis=1)
 
     # ✅ Step 6: Filter and output
-    ev_df = df[df["ev"] > 0.02].copy()
+    ev_df = df[df["ev"] > 0.002].copy()
     ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 VALUE" if x > 0.05 else "")
     ev_df = ev_df.sort_values(by="ev", ascending=False)
 
