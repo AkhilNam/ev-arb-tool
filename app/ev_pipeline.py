@@ -122,3 +122,4 @@ def run_ev_pipeline():
     ev_df.to_csv("data/props_outlier_ev.csv", index=False)
 
     print("Bookmakers from data:", df["bookmaker"].unique())
+    return ev_df
