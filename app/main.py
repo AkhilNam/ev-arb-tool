@@ -33,7 +33,7 @@ def run_ev_pipeline():
         events = get_events_for_sport(SPORT_KEY)
         all_props = []  # Initialize an empty list to store all props
 
-        for event in events[:3]:  # ⛔ LIMIT for credits
+        for event in events:  # ⛔ LIMIT for credits
             event_id = event["id"]
             props_data = get_player_props(event_id, SPORT_KEY)
             if not props_data:
@@ -75,35 +75,44 @@ def run_ev_pipeline():
         print("No props found.")
         return
 
-    # Step 1: Compute implied probabilities
-    df["implied_prob"] = df["odds"].apply(implied_prob)
-
-    # Step 2: Get best odds per side for each player/market/line combo
+    # Step 1: Group to get the best odds per side for each player/market/line combo
     group_cols = ["player", "market", "line", "side"]
     best_odds = df.groupby(group_cols)["odds"].max().reset_index()
 
-    # Step 3: Pivot to put Over/Under odds side-by-side
+    # Step 2: Pivot to place over/under odds side-by-side
     pivot = best_odds.pivot(index=["player", "market", "line"], columns="side", values="odds").reset_index()
 
-    # Ensure we have both sides
+    # Ensure both outcomes exist before proceeding
     if "over" not in pivot.columns or "under" not in pivot.columns:
         print("❌ Pivot missing expected columns. Found:", pivot.columns)
         return
 
-    # Step 4: Calculate no-vig odds (fair probability) for the "over" and "under"
-    pivot["fair_prob_over"] = pivot.apply(lambda row: no_vig_prob(row["over"], row["under"]), axis=1)
+    # Step 3: Calculate implied probabilities from decimal odds (i.e. 1 / odds)
+    pivot["implied_prob_over"] = 1 / pivot["over"]
+    pivot["implied_prob_under"] = 1 / pivot["under"]
 
-    # Step 5: Merge fair probabilities back to the dataframe
-    df = df.merge(pivot[["player", "market", "line", "fair_prob_over"]], on=["player", "market", "line"], how="left")
-    df["fair_prob"] = df.apply(
-        lambda row: row["fair_prob_over"] if row["side"] == "over" else 1 - row["fair_prob_over"], axis=1
+    # Step 4: Normalize the implied probabilities to remove the bookmaker's margin (vig)
+    total_implied = pivot["implied_prob_over"] + pivot["implied_prob_under"]
+    pivot["fair_prob_over"] = pivot["implied_prob_over"] / total_implied
+    pivot["fair_prob_under"] = pivot["implied_prob_under"] / total_implied
+
+    # Step 5: Merge the fair probabilities back into the main DataFrame
+    df = df.merge(
+        pivot[["player", "market", "line", "fair_prob_over", "fair_prob_under"]],
+        on=["player", "market", "line"],
+        how="left"
     )
 
-    # Step 6: Calculate EV
-    df["ev"] = df.apply(lambda row: calculate_ev(row["odds"], row["fair_prob"]), axis=1)
+    # Assign the fair probability based on the bet side
+    df.loc[df["side"].str.lower() == "over", "fair_prob"] = df.loc[df["side"].str.lower() == "over", "fair_prob_over"]
+    df.loc[df["side"].str.lower() == "under", "fair_prob"] = df.loc[df["side"].str.lower() == "under", "fair_prob_under"]
+
+    # Step 6: Calculate EV using vectorized operations
+    # Here EV = (odds * fair_prob) - 1, which can be adjusted if your model requires a different formula.
+    df["ev"] = df["odds"] * df["fair_prob"] - 1
 
     # Filter EV > 0.02 and flag value bets
-    ev_df = df[df["ev"] > -0.02].copy()
+    ev_df = df[df["ev"] > -0.2].copy()
     ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 VALUE" if x > 0.05 else "")
     ev_df = ev_df.sort_values(by="ev", ascending=False)
 
