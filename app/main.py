@@ -112,7 +112,7 @@ def run_ev_pipeline():
     df["ev"] = df["odds"] * df["fair_prob"] - 1
 
     # Filter EV > 0.02 and flag value bets
-    ev_df = df[df["ev"] > -0.2].copy()
+    ev_df = df[df["ev"] > 0.2].copy()
     ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 VALUE" if x > 0.05 else "")
     ev_df = ev_df.sort_values(by="ev", ascending=False)
 
