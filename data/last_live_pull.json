@@ -1,749 +1,5 @@
 [
   {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 21.5,
-    "odds": 2.1
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 21.5,
-    "odds": 1.69
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 13.5,
-    "odds": 2.3
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Ivica Zubac",
-    "side": "Under",
-    "line": 13.5,
-    "odds": 1.53
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Norman Powell",
-    "side": "Over",
-    "line": 14.5,
-    "odds": 2.05
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Norman Powell",
-    "side": "Under",
-    "line": 14.5,
-    "odds": 1.71
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Kawhi Leonard",
-    "side": "Over",
-    "line": 27.5,
-    "odds": 1.69
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Kawhi Leonard",
-    "side": "Under",
-    "line": 27.5,
-    "odds": 2.1
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Kawhi Leonard",
-    "side": "Under",
-    "line": 3.5,
-    "odds": 1.0
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Kawhi Leonard",
-    "side": "Over",
-    "line": 3.5,
-    "odds": 51.0
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Kris Dunn",
-    "side": "Over",
-    "line": 3.5,
-    "odds": 51.0
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Kris Dunn",
-    "side": "Under",
-    "line": 3.5,
-    "odds": 1.0
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Antonio Reeves",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 1.0
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Antonio Reeves",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 41.0
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Jeremiah Robinson-Earl",
-    "side": "Over",
-    "line": 0.5,
-    "odds": 23.0
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Jeremiah Robinson-Earl",
-    "side": "Under",
-    "line": 0.5,
-    "odds": 1.01
-  },
-  {
-    "bookmaker": "Fliff",
-    "market": "player_assists",
-    "player": "Norman Powell",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 4.7
-  },
-  {
-    "bookmaker": "Fliff",
-    "market": "player_assists",
-    "player": "Norman Powell",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 1.13
-  },
-  {
-    "bookmaker": "Fliff",
-    "market": "player_rebounds",
-    "player": "Norman Powell",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 3.4
-  },
-  {
-    "bookmaker": "Fliff",
-    "market": "player_rebounds",
-    "player": "Norman Powell",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 1.24
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Kawhi Leonard",
-    "side": "Over",
-    "line": 27.5,
-    "odds": 2.15
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Kawhi Leonard",
-    "side": "Under",
-    "line": 27.5,
-    "odds": 1.61
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 23.5,
-    "odds": 1.74
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 23.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Norman Powell",
-    "side": "Over",
-    "line": 13.5,
-    "odds": 1.87
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Norman Powell",
-    "side": "Under",
-    "line": 13.5,
-    "odds": 1.8
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 15.5,
-    "odds": 2.25
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Ivica Zubac",
-    "side": "Under",
-    "line": 15.5,
-    "odds": 1.56
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points_assists",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 34.5,
-    "odds": 1.67
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points_assists",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 34.5,
-    "odds": 2.05
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points_rebounds",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 25.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points_rebounds",
-    "player": "Ivica Zubac",
-    "side": "Under",
-    "line": 25.5,
-    "odds": 1.74
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_rebounds",
-    "player": "Bruce Brown Jr",
-    "side": "Over",
-    "line": 4.5,
-    "odds": 1.44
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_rebounds",
-    "player": "Bruce Brown Jr",
-    "side": "Under",
-    "line": 4.5,
-    "odds": 2.5
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_rebounds_assists",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 16.5,
-    "odds": 2.1
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_rebounds_assists",
-    "player": "Ivica Zubac",
-    "side": "Under",
-    "line": 16.5,
-    "odds": 1.62
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_rebounds_assists",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 11.5,
-    "odds": 1.61
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_rebounds_assists",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 11.5,
-    "odds": 2.15
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 2.5
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 1.44
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "Norman Powell",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 2.8
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "Norman Powell",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 1.36
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "Kawhi Leonard",
-    "side": "Over",
-    "line": 2.5,
-    "odds": 4.1
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "Kawhi Leonard",
-    "side": "Under",
-    "line": 2.5,
-    "odds": 1.15
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_assists",
-    "player": "Jose Alvarado",
-    "side": "Over",
-    "line": 8.5,
-    "odds": 1.43
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_assists",
-    "player": "Jose Alvarado",
-    "side": "Under",
-    "line": 8.5,
-    "odds": 2.55
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_assists",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 11.5,
-    "odds": 2.6
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_assists",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 11.5,
-    "odds": 1.43
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_blocks",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 0.5,
-    "odds": 4.0
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_blocks",
-    "player": "Yves Missi",
-    "side": "Over",
-    "line": 2.5,
-    "odds": 5.0
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_blocks",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 3.5,
-    "odds": 7.0
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 23.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 23.5,
-    "odds": 1.91
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "Norman Powell",
-    "side": "Over",
-    "line": 13.5,
-    "odds": 1.91
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "Norman Powell",
-    "side": "Under",
-    "line": 13.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 15.5,
-    "odds": 2.3
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "Ivica Zubac",
-    "side": "Under",
-    "line": 15.5,
-    "odds": 1.59
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "Kawhi Leonard",
-    "side": "Over",
-    "line": 27.5,
-    "odds": 2.35
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "Kawhi Leonard",
-    "side": "Under",
-    "line": 27.5,
-    "odds": 1.56
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "Jose Alvarado",
-    "side": "Over",
-    "line": 17.5,
-    "odds": 2.2
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points",
-    "player": "Jose Alvarado",
-    "side": "Under",
-    "line": 17.5,
-    "odds": 1.62
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points_assists",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 34.5,
-    "odds": 1.69
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points_assists",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 34.5,
-    "odds": 2.1
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points_rebounds",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 25.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points_rebounds",
-    "player": "Ivica Zubac",
-    "side": "Under",
-    "line": 25.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points_rebounds_assists",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 35.5,
-    "odds": 1.77
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points_rebounds_assists",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 35.5,
-    "odds": 2.0
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points_rebounds_assists",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 31.5,
-    "odds": 1.69
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_points_rebounds_assists",
-    "player": "Ivica Zubac",
-    "side": "Under",
-    "line": 31.5,
-    "odds": 2.1
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 0.5,
-    "odds": 1.69
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 0.5,
-    "odds": 2.0
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
-    "player": "Kawhi Leonard",
-    "side": "Over",
-    "line": 3.5,
-    "odds": 1.74
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
-    "player": "Kawhi Leonard",
-    "side": "Under",
-    "line": 3.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 10.5,
-    "odds": 2.4
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
-    "player": "Ivica Zubac",
-    "side": "Under",
-    "line": 10.5,
-    "odds": 1.5
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
-    "player": "Yves Missi",
-    "side": "Over",
-    "line": 13.5,
-    "odds": 2.45
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
-    "player": "Yves Missi",
-    "side": "Under",
-    "line": 13.5,
-    "odds": 1.48
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds_assists",
-    "player": "Ivica Zubac",
-    "side": "Over",
-    "line": 16.5,
-    "odds": 1.91
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds_assists",
-    "player": "Ivica Zubac",
-    "side": "Under",
-    "line": 16.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds_assists",
-    "player": "Jose Alvarado",
-    "side": "Over",
-    "line": 11.5,
-    "odds": 2.1
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds_assists",
-    "player": "Jose Alvarado",
-    "side": "Under",
-    "line": 11.5,
-    "odds": 1.69
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds_assists",
-    "player": "Yves Missi",
-    "side": "Over",
-    "line": 17.5,
-    "odds": 2.15
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds_assists",
-    "player": "Yves Missi",
-    "side": "Under",
-    "line": 17.5,
-    "odds": 1.67
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds_assists",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 11.5,
-    "odds": 1.61
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds_assists",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 11.5,
-    "odds": 2.25
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_threes",
-    "player": "James Harden",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 2.6
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_threes",
-    "player": "James Harden",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 1.43
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_threes",
-    "player": "Jose Alvarado",
-    "side": "Over",
-    "line": 0.5,
-    "odds": 2.8
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_threes",
-    "player": "Jose Alvarado",
-    "side": "Under",
-    "line": 0.5,
-    "odds": 1.38
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_threes",
-    "player": "Norman Powell",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 2.85
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_threes",
-    "player": "Norman Powell",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 1.36
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_threes",
-    "player": "Kawhi Leonard",
-    "side": "Over",
-    "line": 2.5,
-    "odds": 4.5
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_threes",
-    "player": "Kawhi Leonard",
-    "side": "Under",
-    "line": 2.5,
-    "odds": 1.17
-  },
-  {
     "bookmaker": "DraftKings",
     "market": "player_assists",
     "player": "Giannis Antetokounmpo",
@@ -797,7 +53,7 @@
     "player": "Kyle Kuzma",
     "side": "Over",
     "line": 2.5,
-    "odds": 1.95
+    "odds": 1.91
   },
   {
     "bookmaker": "DraftKings",
@@ -805,7 +61,7 @@
     "player": "Kyle Kuzma",
     "side": "Under",
     "line": 2.5,
-    "odds": 1.8
+    "odds": 1.83
   },
   {
     "bookmaker": "DraftKings",
@@ -845,7 +101,7 @@
     "player": "Giannis Antetokounmpo",
     "side": "Over",
     "line": 30.5,
-    "odds": 1.8
+    "odds": 1.87
   },
   {
     "bookmaker": "DraftKings",
@@ -853,7 +109,7 @@
     "player": "Giannis Antetokounmpo",
     "side": "Under",
     "line": 30.5,
-    "odds": 1.95
+    "odds": 1.87
   },
   {
     "bookmaker": "DraftKings",
@@ -877,7 +133,7 @@
     "player": "Kyle Kuzma",
     "side": "Over",
     "line": 17.5,
-    "odds": 1.8
+    "odds": 1.83
   },
   {
     "bookmaker": "DraftKings",
@@ -885,7 +141,7 @@
     "player": "Kyle Kuzma",
     "side": "Under",
     "line": 17.5,
-    "odds": 1.95
+    "odds": 1.91
   },
   {
     "bookmaker": "DraftKings",
@@ -893,7 +149,7 @@
     "player": "Brook Lopez",
     "side": "Over",
     "line": 15.5,
-    "odds": 1.95
+    "odds": 1.87
   },
   {
     "bookmaker": "DraftKings",
@@ -901,7 +157,7 @@
     "player": "Brook Lopez",
     "side": "Under",
     "line": 15.5,
-    "odds": 1.8
+    "odds": 1.87
   },
   {
     "bookmaker": "DraftKings",
@@ -925,7 +181,7 @@
     "player": "Ryan Rollins",
     "side": "Under",
     "line": 11.5,
-    "odds": 1.83
+    "odds": 1.91
   },
   {
     "bookmaker": "DraftKings",
@@ -933,23 +189,23 @@
     "player": "Ryan Rollins",
     "side": "Over",
     "line": 11.5,
-    "odds": 1.91
+    "odds": 1.83
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points",
     "player": "Guerschon Yabusele",
     "side": "Under",
-    "line": 11.5,
-    "odds": 1.8
+    "line": 10.5,
+    "odds": 2.0
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points",
     "player": "Guerschon Yabusele",
     "side": "Over",
-    "line": 11.5,
-    "odds": 1.95
+    "line": 10.5,
+    "odds": 1.77
   },
   {
     "bookmaker": "DraftKings",
@@ -973,7 +229,7 @@
     "player": "Taurean Prince",
     "side": "Over",
     "line": 9.5,
-    "odds": 1.83
+    "odds": 1.8
   },
   {
     "bookmaker": "DraftKings",
@@ -981,7 +237,7 @@
     "player": "Taurean Prince",
     "side": "Under",
     "line": 9.5,
-    "odds": 1.91
+    "odds": 1.95
   },
   {
     "bookmaker": "DraftKings",
@@ -1021,7 +277,7 @@
     "player": "Kyle Kuzma",
     "side": "Under",
     "line": 20.5,
-    "odds": 1.87
+    "odds": 1.83
   },
   {
     "bookmaker": "DraftKings",
@@ -1029,7 +285,7 @@
     "player": "Kyle Kuzma",
     "side": "Over",
     "line": 20.5,
-    "odds": 1.87
+    "odds": 1.91
   },
   {
     "bookmaker": "DraftKings",
@@ -1037,7 +293,7 @@
     "player": "Brook Lopez",
     "side": "Under",
     "line": 17.5,
-    "odds": 1.83
+    "odds": 1.91
   },
   {
     "bookmaker": "DraftKings",
@@ -1045,23 +301,23 @@
     "player": "Brook Lopez",
     "side": "Over",
     "line": 17.5,
-    "odds": 1.91
+    "odds": 1.83
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points_assists",
     "player": "Ryan Rollins",
     "side": "Under",
-    "line": 15.5,
-    "odds": 1.91
+    "line": 16.5,
+    "odds": 1.8
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points_assists",
     "player": "Ryan Rollins",
     "side": "Over",
-    "line": 15.5,
-    "odds": 1.83
+    "line": 16.5,
+    "odds": 1.95
   },
   {
     "bookmaker": "DraftKings",
@@ -1069,7 +325,7 @@
     "player": "Guerschon Yabusele",
     "side": "Over",
     "line": 13.5,
-    "odds": 1.87
+    "odds": 1.91
   },
   {
     "bookmaker": "DraftKings",
@@ -1077,71 +333,71 @@
     "player": "Guerschon Yabusele",
     "side": "Under",
     "line": 13.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_points_rebounds",
+    "player": "Giannis Antetokounmpo",
+    "side": "Over",
+    "line": 43.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_points_rebounds",
+    "player": "Giannis Antetokounmpo",
+    "side": "Under",
+    "line": 43.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_points_rebounds",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 27.5,
     "odds": 1.87
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points_rebounds",
-    "player": "Giannis Antetokounmpo",
-    "side": "Over",
-    "line": 43.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_points_rebounds",
-    "player": "Giannis Antetokounmpo",
-    "side": "Under",
-    "line": 43.5,
-    "odds": 1.91
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_points_rebounds",
-    "player": "Quentin Grimes",
-    "side": "Over",
-    "line": 27.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_points_rebounds",
     "player": "Quentin Grimes",
     "side": "Under",
     "line": 27.5,
-    "odds": 1.91
+    "odds": 1.87
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points_rebounds",
     "player": "Kyle Kuzma",
     "side": "Over",
-    "line": 25.5,
-    "odds": 1.91
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_points_rebounds",
-    "player": "Kyle Kuzma",
-    "side": "Under",
-    "line": 25.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_points_rebounds",
-    "player": "Brook Lopez",
-    "side": "Over",
-    "line": 21.5,
+    "line": 24.5,
     "odds": 1.8
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points_rebounds",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 24.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_points_rebounds",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 22.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_points_rebounds",
     "player": "Brook Lopez",
     "side": "Under",
-    "line": 21.5,
-    "odds": 1.95
+    "line": 22.5,
+    "odds": 1.8
   },
   {
     "bookmaker": "DraftKings",
@@ -1165,7 +421,7 @@
     "player": "Guerschon Yabusele",
     "side": "Over",
     "line": 17.5,
-    "odds": 1.91
+    "odds": 1.95
   },
   {
     "bookmaker": "DraftKings",
@@ -1173,28 +429,28 @@
     "player": "Guerschon Yabusele",
     "side": "Under",
     "line": 17.5,
-    "odds": 1.83
+    "odds": 1.8
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points_rebounds",
-    "player": "Justin Edwards",
+    "player": "Ryan Rollins",
     "side": "Under",
     "line": 16.5,
-    "odds": 1.83
+    "odds": 1.87
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points_rebounds",
-    "player": "Justin Edwards",
+    "player": "Ryan Rollins",
     "side": "Over",
     "line": 16.5,
-    "odds": 1.91
+    "odds": 1.87
   },
   {
     "bookmaker": "DraftKings",
     "market": "player_points_rebounds",
-    "player": "Ryan Rollins",
+    "player": "Justin Edwards",
     "side": "Under",
     "line": 16.5,
     "odds": 1.83
@@ -1202,7 +458,7 @@
   {
     "bookmaker": "DraftKings",
     "market": "player_points_rebounds",
-    "player": "Ryan Rollins",
+    "player": "Justin Edwards",
     "side": "Over",
     "line": 16.5,
     "odds": 1.91
@@ -1277,7 +533,7 @@
     "player": "Brook Lopez",
     "side": "Under",
     "line": 24.5,
-    "odds": 1.8
+    "odds": 1.87
   },
   {
     "bookmaker": "DraftKings",
@@ -1285,6 +541,14 @@
     "player": "Brook Lopez",
     "side": "Over",
     "line": 24.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_points_rebounds_assists",
+    "player": "Ryan Rollins",
+    "side": "Over",
+    "line": 21.5,
     "odds": 1.95
   },
   {
@@ -1292,32 +556,8 @@
     "market": "player_points_rebounds_assists",
     "player": "Ryan Rollins",
     "side": "Under",
-    "line": 20.5,
-    "odds": 1.91
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_points_rebounds_assists",
-    "player": "Ryan Rollins",
-    "side": "Over",
-    "line": 20.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_points_rebounds_assists",
-    "player": "Guerschon Yabusele",
-    "side": "Over",
-    "line": 19.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_points_rebounds_assists",
-    "player": "Guerschon Yabusele",
-    "side": "Under",
-    "line": 19.5,
-    "odds": 1.91
+    "line": 21.5,
+    "odds": 1.8
   },
   {
     "bookmaker": "DraftKings",
@@ -1332,6 +572,22 @@
     "market": "player_points_rebounds_assists",
     "player": "Adem Bona",
     "side": "Over",
+    "line": 19.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_points_rebounds_assists",
+    "player": "Guerschon Yabusele",
+    "side": "Over",
+    "line": 19.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_points_rebounds_assists",
+    "player": "Guerschon Yabusele",
+    "side": "Under",
     "line": 19.5,
     "odds": 1.87
   },
@@ -1405,7 +661,7 @@
     "player": "Kyle Kuzma",
     "side": "Over",
     "line": 7.5,
-    "odds": 2.1
+    "odds": 2.05
   },
   {
     "bookmaker": "DraftKings",
@@ -1413,7 +669,7 @@
     "player": "Kyle Kuzma",
     "side": "Under",
     "line": 7.5,
-    "odds": 1.71
+    "odds": 1.74
   },
   {
     "bookmaker": "DraftKings",
@@ -1613,7 +869,7 @@
     "player": "Quentin Grimes",
     "side": "Under",
     "line": 2.5,
-    "odds": 2.35
+    "odds": 2.3
   },
   {
     "bookmaker": "DraftKings",
@@ -1621,7 +877,7 @@
     "player": "Quentin Grimes",
     "side": "Over",
     "line": 2.5,
-    "odds": 1.57
+    "odds": 1.6
   },
   {
     "bookmaker": "DraftKings",
@@ -1645,7 +901,7 @@
     "player": "Kyle Kuzma",
     "side": "Over",
     "line": 1.5,
-    "odds": 1.65
+    "odds": 1.71
   },
   {
     "bookmaker": "DraftKings",
@@ -1653,7 +909,23 @@
     "player": "Kyle Kuzma",
     "side": "Under",
     "line": 1.5,
-    "odds": 2.2
+    "odds": 2.1
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_threes",
+    "player": "Ryan Rollins",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_threes",
+    "player": "Ryan Rollins",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 2.0
   },
   {
     "bookmaker": "DraftKings",
@@ -1690,58 +962,42 @@
   {
     "bookmaker": "DraftKings",
     "market": "player_threes",
-    "player": "Ryan Rollins",
+    "player": "Guerschon Yabusele",
     "side": "Over",
     "line": 1.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "player_threes",
+    "player": "Guerschon Yabusele",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 17.5,
     "odds": 1.83
   },
   {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Ryan Rollins",
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Kyle Kuzma",
     "side": "Under",
-    "line": 1.5,
+    "line": 17.5,
     "odds": 1.91
   },
   {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Guerschon Yabusele",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "DraftKings",
-    "market": "player_threes",
-    "player": "Guerschon Yabusele",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 1.8
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Kyle Kuzma",
-    "side": "Over",
-    "line": 17.5,
-    "odds": 1.8
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Kyle Kuzma",
-    "side": "Under",
-    "line": 17.5,
-    "odds": 1.95
-  },
-  {
     "bookmaker": "Fanatics",
     "market": "player_points",
     "player": "Brook Lopez",
     "side": "Over",
     "line": 15.5,
-    "odds": 1.95
+    "odds": 1.87
   },
   {
     "bookmaker": "Fanatics",
@@ -1749,7 +1005,7 @@
     "player": "Brook Lopez",
     "side": "Under",
     "line": 15.5,
-    "odds": 1.8
+    "odds": 1.87
   },
   {
     "bookmaker": "Fanatics",
@@ -1773,7 +1029,7 @@
     "player": "Taurean Prince",
     "side": "Over",
     "line": 9.5,
-    "odds": 1.87
+    "odds": 1.83
   },
   {
     "bookmaker": "Fanatics",
@@ -1781,23 +1037,7 @@
     "player": "Taurean Prince",
     "side": "Under",
     "line": 9.5,
-    "odds": 1.87
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Ricky Council IV",
-    "side": "Over",
-    "line": 13.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "Fanatics",
-    "market": "player_points",
-    "player": "Ricky Council IV",
-    "side": "Under",
-    "line": 13.5,
-    "odds": 1.8
+    "odds": 1.91
   },
   {
     "bookmaker": "Fanatics",
@@ -1805,7 +1045,7 @@
     "player": "Guerschon Yabusele",
     "side": "Over",
     "line": 11.5,
-    "odds": 1.87
+    "odds": 1.91
   },
   {
     "bookmaker": "Fanatics",
@@ -1813,7 +1053,7 @@
     "player": "Guerschon Yabusele",
     "side": "Under",
     "line": 11.5,
-    "odds": 1.87
+    "odds": 1.83
   },
   {
     "bookmaker": "Fanatics",
@@ -1821,7 +1061,7 @@
     "player": "Ryan Rollins",
     "side": "Over",
     "line": 11.5,
-    "odds": 1.95
+    "odds": 1.87
   },
   {
     "bookmaker": "Fanatics",
@@ -1829,15 +1069,31 @@
     "player": "Ryan Rollins",
     "side": "Under",
     "line": 11.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 12.5,
     "odds": 1.8
   },
   {
     "bookmaker": "Fanatics",
     "market": "player_points",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 12.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
     "player": "Giannis Antetokounmpo",
     "side": "Over",
     "line": 30.5,
-    "odds": 1.87
+    "odds": 1.83
   },
   {
     "bookmaker": "Fanatics",
@@ -1845,7 +1101,7 @@
     "player": "Giannis Antetokounmpo",
     "side": "Under",
     "line": 30.5,
-    "odds": 1.87
+    "odds": 1.91
   },
   {
     "bookmaker": "Fanatics",
@@ -1853,7 +1109,7 @@
     "player": "Quentin Grimes",
     "side": "Over",
     "line": 23.5,
-    "odds": 1.87
+    "odds": 1.83
   },
   {
     "bookmaker": "Fanatics",
@@ -1861,14 +1117,14 @@
     "player": "Quentin Grimes",
     "side": "Under",
     "line": 23.5,
-    "odds": 1.87
+    "odds": 1.91
   },
   {
     "bookmaker": "Fanatics",
     "market": "player_points",
     "player": "Justin Edwards",
     "side": "Over",
-    "line": 12.5,
+    "line": 13.5,
     "odds": 1.87
   },
   {
@@ -1876,7 +1132,7 @@
     "market": "player_points",
     "player": "Justin Edwards",
     "side": "Under",
-    "line": 12.5,
+    "line": 13.5,
     "odds": 1.87
   },
   {
@@ -2730,22 +1986,6 @@
   {
     "bookmaker": "Hard Rock Bet",
     "market": "player_rebounds",
-    "player": "Ricky Council IV",
-    "side": "Over",
-    "line": 5.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
-    "player": "Ricky Council IV",
-    "side": "Under",
-    "line": 5.5,
-    "odds": 1.74
-  },
-  {
-    "bookmaker": "Hard Rock Bet",
-    "market": "player_rebounds",
     "player": "Adem Bona",
     "side": "Over",
     "line": 7.5,
@@ -2810,6 +2050,22 @@
   {
     "bookmaker": "Hard Rock Bet",
     "market": "player_rebounds",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 5.5,
+    "odds": 2.1
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "player_rebounds",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 5.5,
+    "odds": 1.65
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "player_rebounds",
     "player": "Brook Lopez",
     "side": "Over",
     "line": 6.5,
@@ -3080,6 +2336,598 @@
     "odds": 1.5
   },
   {
+    "bookmaker": "Bovada",
+    "market": "player_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_assists",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 4.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_assists",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 4.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_assists",
+    "player": "Ryan Rollins",
+    "side": "Over",
+    "line": 4.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_assists",
+    "player": "Ryan Rollins",
+    "side": "Under",
+    "line": 4.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Adem Bona",
+    "side": "Over",
+    "line": 9.5,
+    "odds": 1.69
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Adem Bona",
+    "side": "Under",
+    "line": 9.5,
+    "odds": 2.1
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 15.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Brook Lopez",
+    "side": "Under",
+    "line": 15.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Giannis Antetokounmpo",
+    "side": "Over",
+    "line": 30.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Giannis Antetokounmpo",
+    "side": "Under",
+    "line": 30.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Guerschon Yabusele",
+    "side": "Over",
+    "line": 11.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Guerschon Yabusele",
+    "side": "Under",
+    "line": 11.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Justin Edwards",
+    "side": "Over",
+    "line": 12.5,
+    "odds": 1.74
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Justin Edwards",
+    "side": "Under",
+    "line": 12.5,
+    "odds": 2.05
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 17.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 17.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 23.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 23.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 13.5,
+    "odds": 2.2
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 13.5,
+    "odds": 1.62
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Ryan Rollins",
+    "side": "Over",
+    "line": 11.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Ryan Rollins",
+    "side": "Under",
+    "line": 11.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Taurean Prince",
+    "side": "Over",
+    "line": 9.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points",
+    "player": "Taurean Prince",
+    "side": "Under",
+    "line": 9.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Adem Bona",
+    "side": "Over",
+    "line": 18.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Adem Bona",
+    "side": "Under",
+    "line": 18.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 24.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Brook Lopez",
+    "side": "Under",
+    "line": 24.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Over",
+    "line": 50.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Under",
+    "line": 50.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Guerschon Yabusele",
+    "side": "Over",
+    "line": 20.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Guerschon Yabusele",
+    "side": "Under",
+    "line": 20.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Justin Edwards",
+    "side": "Over",
+    "line": 18.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Justin Edwards",
+    "side": "Under",
+    "line": 18.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 27.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 27.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 32.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 32.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 21.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 21.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Ryan Rollins",
+    "side": "Over",
+    "line": 20.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Ryan Rollins",
+    "side": "Under",
+    "line": 20.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Taurean Prince",
+    "side": "Over",
+    "line": 16.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_points_rebounds_assists",
+    "player": "Taurean Prince",
+    "side": "Under",
+    "line": 16.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Adem Bona",
+    "side": "Over",
+    "line": 7.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Adem Bona",
+    "side": "Under",
+    "line": 7.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Brook Lopez",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Giannis Antetokounmpo",
+    "side": "Over",
+    "line": 12.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Giannis Antetokounmpo",
+    "side": "Under",
+    "line": 12.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Guerschon Yabusele",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 2.2
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Guerschon Yabusele",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.62
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 7.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 7.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 5.5,
+    "odds": 2.3
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_rebounds",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 5.5,
+    "odds": 1.59
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Brook Lopez",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Guerschon Yabusele",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Guerschon Yabusele",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Justin Edwards",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Justin Edwards",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.69
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 2.1
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 3.5,
+    "odds": 2.25
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 3.5,
+    "odds": 1.61
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 2.15
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.67
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Ryan Rollins",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Ryan Rollins",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Taurean Prince",
+    "side": "Over",
+    "line": 2.5,
+    "odds": 2.5
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "player_threes",
+    "player": "Taurean Prince",
+    "side": "Under",
+    "line": 2.5,
+    "odds": 1.5
+  },
+  {
     "bookmaker": "ESPN BET",
     "market": "player_assists",
     "player": "Giannis Antetokounmpo",
@@ -3130,6 +2978,38 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_assists",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 2.5,
+    "odds": 2.25
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_assists",
+    "player": "Brook Lopez",
+    "side": "Under",
+    "line": 2.5,
+    "odds": 1.59
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_assists",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 2.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_assists",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 2.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_assists",
     "player": "Ricky Council IV",
     "side": "Over",
     "line": 2.5,
@@ -3162,18 +3042,18 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_assists",
-    "player": "Brook Lopez",
+    "player": "Taurean Prince",
     "side": "Over",
-    "line": 2.5,
-    "odds": 2.25
+    "line": 1.5,
+    "odds": 1.59
   },
   {
     "bookmaker": "ESPN BET",
     "market": "player_assists",
-    "player": "Brook Lopez",
+    "player": "Taurean Prince",
     "side": "Under",
-    "line": 2.5,
-    "odds": 1.59
+    "line": 1.5,
+    "odds": 2.25
   },
   {
     "bookmaker": "ESPN BET",
@@ -3193,27 +3073,11 @@
   },
   {
     "bookmaker": "ESPN BET",
-    "market": "player_assists",
-    "player": "Taurean Prince",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 1.59
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_assists",
-    "player": "Taurean Prince",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 2.25
-  },
-  {
-    "bookmaker": "ESPN BET",
     "market": "player_points",
     "player": "Giannis Antetokounmpo",
     "side": "Over",
     "line": 30.5,
-    "odds": 1.87
+    "odds": 1.8
   },
   {
     "bookmaker": "ESPN BET",
@@ -3221,23 +3085,7 @@
     "player": "Giannis Antetokounmpo",
     "side": "Under",
     "line": 30.5,
-    "odds": 1.87
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Kyle Kuzma",
-    "side": "Over",
-    "line": 17.5,
-    "odds": 1.83
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Kyle Kuzma",
-    "side": "Under",
-    "line": 17.5,
-    "odds": 1.91
+    "odds": 1.95
   },
   {
     "bookmaker": "ESPN BET",
@@ -3258,6 +3106,22 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_points",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 17.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 17.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points",
     "player": "Brook Lopez",
     "side": "Over",
     "line": 15.5,
@@ -3270,6 +3134,38 @@
     "side": "Under",
     "line": 15.5,
     "odds": 1.83
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 12.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 12.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points",
+    "player": "Ryan Rollins",
+    "side": "Over",
+    "line": 11.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points",
+    "player": "Ryan Rollins",
+    "side": "Under",
+    "line": 11.5,
+    "odds": 1.8
   },
   {
     "bookmaker": "ESPN BET",
@@ -3306,38 +3202,6 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_points",
-    "player": "Ricky Council IV",
-    "side": "Over",
-    "line": 13.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Ricky Council IV",
-    "side": "Under",
-    "line": 13.5,
-    "odds": 1.8
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Ryan Rollins",
-    "side": "Over",
-    "line": 11.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
-    "player": "Ryan Rollins",
-    "side": "Under",
-    "line": 11.5,
-    "odds": 1.8
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points",
     "player": "Adem Bona",
     "side": "Over",
     "line": 9.5,
@@ -3350,6 +3214,38 @@
     "side": "Under",
     "line": 9.5,
     "odds": 1.91
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Over",
+    "line": 37.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Under",
+    "line": 37.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_assists",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 28.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_assists",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 28.5,
+    "odds": 1.87
   },
   {
     "bookmaker": "ESPN BET",
@@ -3386,6 +3282,38 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_points_assists",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 15.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_assists",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 15.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_assists",
+    "player": "Ryan Rollins",
+    "side": "Over",
+    "line": 15.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_assists",
+    "player": "Ryan Rollins",
+    "side": "Under",
+    "line": 15.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_assists",
     "player": "Guerschon Yabusele",
     "side": "Over",
     "line": 14.5,
@@ -3402,33 +3330,17 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_points_assists",
-    "player": "Ricky Council IV",
+    "player": "Taurean Prince",
     "side": "Over",
-    "line": 15.5,
-    "odds": 1.8
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points_assists",
-    "player": "Ricky Council IV",
-    "side": "Under",
-    "line": 15.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_points_assists",
-    "player": "Ryan Rollins",
-    "side": "Over",
-    "line": 15.5,
+    "line": 11.5,
     "odds": 1.83
   },
   {
     "bookmaker": "ESPN BET",
     "market": "player_points_assists",
-    "player": "Ryan Rollins",
+    "player": "Taurean Prince",
     "side": "Under",
-    "line": 15.5,
+    "line": 11.5,
     "odds": 1.91
   },
   {
@@ -3450,6 +3362,70 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_points_rebounds",
+    "player": "Giannis Antetokounmpo",
+    "side": "Over",
+    "line": 43.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Giannis Antetokounmpo",
+    "side": "Under",
+    "line": 43.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 27.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 27.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 25.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 25.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 22.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Brook Lopez",
+    "side": "Under",
+    "line": 22.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
     "player": "Ricky Council IV",
     "side": "Over",
     "line": 18.5,
@@ -3462,6 +3438,38 @@
     "side": "Under",
     "line": 18.5,
     "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Adem Bona",
+    "side": "Over",
+    "line": 17.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Adem Bona",
+    "side": "Under",
+    "line": 17.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Guerschon Yabusele",
+    "side": "Over",
+    "line": 17.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds",
+    "player": "Guerschon Yabusele",
+    "side": "Under",
+    "line": 17.5,
+    "odds": 1.95
   },
   {
     "bookmaker": "ESPN BET",
@@ -3482,18 +3490,82 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_points_rebounds",
-    "player": "Adem Bona",
+    "player": "Taurean Prince",
     "side": "Over",
-    "line": 17.5,
-    "odds": 1.87
+    "line": 14.5,
+    "odds": 1.95
   },
   {
     "bookmaker": "ESPN BET",
     "market": "player_points_rebounds",
-    "player": "Adem Bona",
+    "player": "Taurean Prince",
     "side": "Under",
-    "line": 17.5,
+    "line": 14.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Over",
+    "line": 50.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Under",
+    "line": 50.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 32.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 32.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 27.5,
     "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 27.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 24.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Brook Lopez",
+    "side": "Under",
+    "line": 24.5,
+    "odds": 1.91
   },
   {
     "bookmaker": "ESPN BET",
@@ -3526,6 +3598,38 @@
     "side": "Under",
     "line": 18.5,
     "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Guerschon Yabusele",
+    "side": "Over",
+    "line": 20.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Guerschon Yabusele",
+    "side": "Under",
+    "line": 20.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Taurean Prince",
+    "side": "Over",
+    "line": 16.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_points_rebounds_assists",
+    "player": "Taurean Prince",
+    "side": "Under",
+    "line": 16.5,
+    "odds": 1.8
   },
   {
     "bookmaker": "ESPN BET",
@@ -3562,34 +3666,50 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_rebounds",
-    "player": "Ricky Council IV",
+    "player": "Kyle Kuzma",
     "side": "Over",
-    "line": 5.5,
+    "line": 7.5,
     "odds": 1.95
   },
   {
     "bookmaker": "ESPN BET",
     "market": "player_rebounds",
-    "player": "Ricky Council IV",
+    "player": "Kyle Kuzma",
     "side": "Under",
-    "line": 5.5,
+    "line": 7.5,
     "odds": 1.8
   },
   {
     "bookmaker": "ESPN BET",
     "market": "player_rebounds",
-    "player": "Ryan Rollins",
+    "player": "Brook Lopez",
     "side": "Over",
-    "line": 4.5,
-    "odds": 1.77
+    "line": 6.5,
+    "odds": 1.8
   },
   {
     "bookmaker": "ESPN BET",
     "market": "player_rebounds",
-    "player": "Ryan Rollins",
+    "player": "Brook Lopez",
     "side": "Under",
-    "line": 4.5,
-    "odds": 2.0
+    "line": 6.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 5.5,
+    "odds": 2.05
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 5.5,
+    "odds": 1.71
   },
   {
     "bookmaker": "ESPN BET",
@@ -3610,18 +3730,18 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_rebounds",
-    "player": "Brook Lopez",
+    "player": "Ryan Rollins",
     "side": "Over",
-    "line": 6.5,
-    "odds": 1.69
+    "line": 4.5,
+    "odds": 1.77
   },
   {
     "bookmaker": "ESPN BET",
     "market": "player_rebounds",
-    "player": "Brook Lopez",
+    "player": "Ryan Rollins",
     "side": "Under",
-    "line": 6.5,
-    "odds": 2.1
+    "line": 4.5,
+    "odds": 2.0
   },
   {
     "bookmaker": "ESPN BET",
@@ -3658,6 +3778,38 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_rebounds_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Over",
+    "line": 19.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Giannis Antetokounmpo",
+    "side": "Under",
+    "line": 19.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 9.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 9.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
     "player": "Ryan Rollins",
     "side": "Over",
     "line": 9.5,
@@ -3683,6 +3835,38 @@
     "bookmaker": "ESPN BET",
     "market": "player_rebounds_assists",
     "player": "Adem Bona",
+    "side": "Under",
+    "line": 8.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 9.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Brook Lopez",
+    "side": "Under",
+    "line": 9.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 8.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Quentin Grimes",
     "side": "Under",
     "line": 8.5,
     "odds": 1.95
@@ -3705,6 +3889,38 @@
   },
   {
     "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Guerschon Yabusele",
+    "side": "Over",
+    "line": 8.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Guerschon Yabusele",
+    "side": "Under",
+    "line": 8.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Taurean Prince",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_rebounds_assists",
+    "player": "Taurean Prince",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
     "market": "player_threes",
     "player": "Quentin Grimes",
     "side": "Over",
@@ -3718,6 +3934,22 @@
     "side": "Under",
     "line": 3.5,
     "odds": 1.67
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_threes",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.71
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_threes",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 2.05
   },
   {
     "bookmaker": "ESPN BET",
@@ -3754,6 +3986,22 @@
   {
     "bookmaker": "ESPN BET",
     "market": "player_threes",
+    "player": "Brook Lopez",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_threes",
+    "player": "Brook Lopez",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "player_threes",
     "player": "Ryan Rollins",
     "side": "Over",
     "line": 1.5,
@@ -3766,22 +4014,6 @@
     "side": "Under",
     "line": 1.5,
     "odds": 1.8
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "Kyle Kuzma",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 1.71
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "Kyle Kuzma",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 2.05
   },
   {
     "bookmaker": "ESPN BET",
@@ -3798,22 +4030,6 @@
     "side": "Under",
     "line": 1.5,
     "odds": 1.91
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "Brook Lopez",
-    "side": "Over",
-    "line": 1.5,
-    "odds": 1.95
-  },
-  {
-    "bookmaker": "ESPN BET",
-    "market": "player_threes",
-    "player": "Brook Lopez",
-    "side": "Under",
-    "line": 1.5,
-    "odds": 1.8
   },
   {
     "bookmaker": "ESPN BET",
@@ -4122,22 +4338,6 @@
   {
     "bookmaker": "Underdog",
     "market": "player_points_rebounds_assists",
-    "player": "Ricky Council IV",
-    "side": "Over",
-    "line": 21.5,
-    "odds": 1.73
-  },
-  {
-    "bookmaker": "Underdog",
-    "market": "player_points_rebounds_assists",
-    "player": "Ricky Council IV",
-    "side": "Under",
-    "line": 21.5,
-    "odds": 1.73
-  },
-  {
-    "bookmaker": "Underdog",
-    "market": "player_points_rebounds_assists",
     "player": "Ryan Rollins",
     "side": "Over",
     "line": 20.5,
@@ -4149,6 +4349,22 @@
     "player": "Ryan Rollins",
     "side": "Under",
     "line": 20.5,
+    "odds": 1.73
+  },
+  {
+    "bookmaker": "Underdog",
+    "market": "player_points_rebounds_assists",
+    "player": "Ricky Council IV",
+    "side": "Over",
+    "line": 21.5,
+    "odds": 1.73
+  },
+  {
+    "bookmaker": "Underdog",
+    "market": "player_points_rebounds_assists",
+    "player": "Ricky Council IV",
+    "side": "Under",
+    "line": 21.5,
     "odds": 1.73
   },
   {
@@ -4298,18 +4514,18 @@
   {
     "bookmaker": "Caesars",
     "market": "player_points",
-    "player": "Adem Bona",
+    "player": "Justin Edwards",
     "side": "Over",
-    "line": 9.5,
-    "odds": 1.73
+    "line": 12.5,
+    "odds": 1.8
   },
   {
     "bookmaker": "Caesars",
     "market": "player_points",
-    "player": "Adem Bona",
+    "player": "Justin Edwards",
     "side": "Under",
-    "line": 9.5,
-    "odds": 2.0
+    "line": 12.5,
+    "odds": 1.92
   },
   {
     "bookmaker": "Caesars",
@@ -4349,7 +4565,7 @@
     "player": "Giannis Antetokounmpo",
     "side": "Over",
     "line": 30.5,
-    "odds": 1.85
+    "odds": 1.83
   },
   {
     "bookmaker": "Caesars",
@@ -4357,7 +4573,7 @@
     "player": "Giannis Antetokounmpo",
     "side": "Under",
     "line": 30.5,
-    "odds": 1.85
+    "odds": 1.88
   },
   {
     "bookmaker": "Caesars",
@@ -4426,6 +4642,22 @@
   {
     "bookmaker": "Caesars",
     "market": "player_points_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 27.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_points_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 27.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_points_rebounds_assists",
     "player": "Brook Lopez",
     "side": "Over",
     "line": 24.5,
@@ -4437,6 +4669,22 @@
     "player": "Brook Lopez",
     "side": "Under",
     "line": 24.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_points_rebounds_assists",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 32.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_points_rebounds_assists",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 32.5,
     "odds": 1.88
   },
   {
@@ -4458,18 +4706,50 @@
   {
     "bookmaker": "Caesars",
     "market": "player_points_rebounds_assists",
+    "player": "Justin Edwards",
+    "side": "Over",
+    "line": 18.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_points_rebounds_assists",
+    "player": "Justin Edwards",
+    "side": "Under",
+    "line": 18.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_points_rebounds_assists",
+    "player": "Taurean Prince",
+    "side": "Over",
+    "line": 16.5,
+    "odds": 1.92
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_points_rebounds_assists",
+    "player": "Taurean Prince",
+    "side": "Under",
+    "line": 16.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_points_rebounds_assists",
     "player": "Guerschon Yabusele",
     "side": "Over",
-    "line": 19.5,
-    "odds": 1.75
+    "line": 20.5,
+    "odds": 1.94
   },
   {
     "bookmaker": "Caesars",
     "market": "player_points_rebounds_assists",
     "player": "Guerschon Yabusele",
     "side": "Under",
-    "line": 19.5,
-    "odds": 1.97
+    "line": 20.5,
+    "odds": 1.78
   },
   {
     "bookmaker": "Caesars",
@@ -4506,26 +4786,10 @@
   {
     "bookmaker": "Caesars",
     "market": "player_rebounds",
-    "player": "Guerschon Yabusele",
-    "side": "Over",
-    "line": 6.5,
-    "odds": 2.16
-  },
-  {
-    "bookmaker": "Caesars",
-    "market": "player_rebounds",
-    "player": "Guerschon Yabusele",
-    "side": "Under",
-    "line": 6.5,
-    "odds": 1.62
-  },
-  {
-    "bookmaker": "Caesars",
-    "market": "player_rebounds",
     "player": "Brook Lopez",
     "side": "Over",
     "line": 6.5,
-    "odds": 1.75
+    "odds": 1.8
   },
   {
     "bookmaker": "Caesars",
@@ -4533,7 +4797,7 @@
     "player": "Brook Lopez",
     "side": "Under",
     "line": 6.5,
-    "odds": 1.97
+    "odds": 1.92
   },
   {
     "bookmaker": "Caesars",
@@ -4586,10 +4850,58 @@
   {
     "bookmaker": "Caesars",
     "market": "player_threes",
+    "player": "Taurean Prince",
+    "side": "Over",
+    "line": 2.5,
+    "odds": 2.39
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_threes",
+    "player": "Taurean Prince",
+    "side": "Under",
+    "line": 2.5,
+    "odds": 1.52
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_threes",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 3.5,
+    "odds": 2.33
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_threes",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 3.5,
+    "odds": 1.54
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_threes",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.7
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_threes",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 2.04
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_threes",
     "player": "Brook Lopez",
     "side": "Over",
     "line": 1.5,
-    "odds": 1.83
+    "odds": 1.88
   },
   {
     "bookmaker": "Caesars",
@@ -4597,7 +4909,7 @@
     "player": "Brook Lopez",
     "side": "Under",
     "line": 1.5,
-    "odds": 1.88
+    "odds": 1.83
   },
   {
     "bookmaker": "Caesars",
@@ -4616,6 +4928,22 @@
     "odds": 1.8
   },
   {
+    "bookmaker": "Caesars",
+    "market": "player_threes",
+    "player": "Justin Edwards",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "player_threes",
+    "player": "Justin Edwards",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.92
+  },
+  {
     "bookmaker": "PrizePicks",
     "market": "player_assists",
     "player": "Justin Edwards",
@@ -5148,7 +5476,7 @@
     "market": "player_points_rebounds_assists",
     "player": "Adem Bona",
     "side": "Over",
-    "line": 18.5,
+    "line": 19.5,
     "odds": 1.73
   },
   {
@@ -5156,7 +5484,7 @@
     "market": "player_points_rebounds_assists",
     "player": "Adem Bona",
     "side": "Under",
-    "line": 18.5,
+    "line": 19.5,
     "odds": 1.73
   },
   {
@@ -5180,7 +5508,7 @@
     "market": "player_points_rebounds_assists",
     "player": "Guerschon Yabusele",
     "side": "Over",
-    "line": 20.5,
+    "line": 19.5,
     "odds": 1.73
   },
   {
@@ -5188,7 +5516,7 @@
     "market": "player_points_rebounds_assists",
     "player": "Guerschon Yabusele",
     "side": "Under",
-    "line": 20.5,
+    "line": 19.5,
     "odds": 1.73
   },
   {
@@ -5370,6 +5698,22 @@
   {
     "bookmaker": "PrizePicks",
     "market": "player_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Over",
+    "line": 9.5,
+    "odds": 1.73
+  },
+  {
+    "bookmaker": "PrizePicks",
+    "market": "player_rebounds_assists",
+    "player": "Kyle Kuzma",
+    "side": "Under",
+    "line": 9.5,
+    "odds": 1.73
+  },
+  {
+    "bookmaker": "PrizePicks",
+    "market": "player_rebounds_assists",
     "player": "Justin Edwards",
     "side": "Over",
     "line": 5.5,
@@ -5397,6 +5741,22 @@
     "player": "Ryan Rollins",
     "side": "Under",
     "line": 9.5,
+    "odds": 1.73
+  },
+  {
+    "bookmaker": "PrizePicks",
+    "market": "player_rebounds_assists",
+    "player": "Quentin Grimes",
+    "side": "Over",
+    "line": 8.5,
+    "odds": 1.73
+  },
+  {
+    "bookmaker": "PrizePicks",
+    "market": "player_rebounds_assists",
+    "player": "Quentin Grimes",
+    "side": "Under",
+    "line": 8.5,
     "odds": 1.73
   },
   {
@@ -5478,5 +5838,1813 @@
     "side": "Under",
     "line": 1.5,
     "odds": 1.73
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Over",
+    "line": 8.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Under",
+    "line": 8.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Justin Champagnie",
+    "side": "Over",
+    "line": 8.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Justin Champagnie",
+    "side": "Under",
+    "line": 8.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Alex Sarr",
+    "side": "Over",
+    "line": 15.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Alex Sarr",
+    "side": "Under",
+    "line": 15.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Paolo Banchero",
+    "side": "Over",
+    "line": 28.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Paolo Banchero",
+    "side": "Under",
+    "line": 28.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Carlton Carrington",
+    "side": "Over",
+    "line": 10.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Carlton Carrington",
+    "side": "Under",
+    "line": 10.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Wendell Carter Jr",
+    "side": "Over",
+    "line": 10.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Wendell Carter Jr",
+    "side": "Under",
+    "line": 10.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Jordan Poole",
+    "side": "Over",
+    "line": 16.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Jordan Poole",
+    "side": "Under",
+    "line": 16.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Franz Wagner",
+    "side": "Over",
+    "line": 23.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Franz Wagner",
+    "side": "Under",
+    "line": 23.5,
+    "odds": 1.87
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "AJ Johnson",
+    "side": "Over",
+    "line": 12.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "AJ Johnson",
+    "side": "Under",
+    "line": 12.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Cory Joseph",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Cory Joseph",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Paolo Banchero",
+    "side": "Over",
+    "line": 4.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Paolo Banchero",
+    "side": "Under",
+    "line": 4.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Franz Wagner",
+    "side": "Over",
+    "line": 4.5,
+    "odds": 1.74
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Franz Wagner",
+    "side": "Under",
+    "line": 4.5,
+    "odds": 2.02
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Jordan Poole",
+    "side": "Over",
+    "line": 3.5,
+    "odds": 1.69
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Jordan Poole",
+    "side": "Under",
+    "line": 3.5,
+    "odds": 2.08
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Carlton Carrington",
+    "side": "Over",
+    "line": 5.5,
+    "odds": 2.18
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Carlton Carrington",
+    "side": "Under",
+    "line": 5.5,
+    "odds": 1.63
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "AJ Johnson",
+    "side": "Over",
+    "line": 3.5,
+    "odds": 1.66
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "AJ Johnson",
+    "side": "Under",
+    "line": 3.5,
+    "odds": 2.14
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Cory Joseph",
+    "side": "Over",
+    "line": 3.5,
+    "odds": 2.28
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Cory Joseph",
+    "side": "Under",
+    "line": 3.5,
+    "odds": 1.57
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Over",
+    "line": 8.5,
+    "odds": 1.78
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Under",
+    "line": 8.5,
+    "odds": 1.96
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Justin Champagnie",
+    "side": "Over",
+    "line": 9.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Justin Champagnie",
+    "side": "Under",
+    "line": 9.5,
+    "odds": 1.76
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Wendell Carter Jr",
+    "side": "Over",
+    "line": 10.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Wendell Carter Jr",
+    "side": "Under",
+    "line": 10.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Cory Joseph",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Cory Joseph",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Carlton Carrington",
+    "side": "Over",
+    "line": 10.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Carlton Carrington",
+    "side": "Under",
+    "line": 10.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Paolo Banchero",
+    "side": "Over",
+    "line": 28.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Paolo Banchero",
+    "side": "Under",
+    "line": 28.5,
+    "odds": 1.89
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Franz Wagner",
+    "side": "Over",
+    "line": 23.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Franz Wagner",
+    "side": "Under",
+    "line": 23.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Alex Sarr",
+    "side": "Over",
+    "line": 15.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Alex Sarr",
+    "side": "Under",
+    "line": 15.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "AJ Johnson",
+    "side": "Over",
+    "line": 12.5,
+    "odds": 1.96
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "AJ Johnson",
+    "side": "Under",
+    "line": 12.5,
+    "odds": 1.78
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Jordan Poole",
+    "side": "Over",
+    "line": 16.5,
+    "odds": 1.78
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Jordan Poole",
+    "side": "Under",
+    "line": 16.5,
+    "odds": 1.96
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Cory Joseph",
+    "side": "Over",
+    "line": 9.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Cory Joseph",
+    "side": "Under",
+    "line": 9.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Carlton Carrington",
+    "side": "Over",
+    "line": 16.5,
+    "odds": 1.94
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Carlton Carrington",
+    "side": "Under",
+    "line": 16.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Franz Wagner",
+    "side": "Over",
+    "line": 28.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Franz Wagner",
+    "side": "Under",
+    "line": 28.5,
+    "odds": 1.89
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Jordan Poole",
+    "side": "Over",
+    "line": 20.5,
+    "odds": 1.78
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Jordan Poole",
+    "side": "Under",
+    "line": 20.5,
+    "odds": 1.96
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "AJ Johnson",
+    "side": "Over",
+    "line": 16.5,
+    "odds": 1.94
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "AJ Johnson",
+    "side": "Under",
+    "line": 16.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Paolo Banchero",
+    "side": "Over",
+    "line": 33.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Paolo Banchero",
+    "side": "Under",
+    "line": 33.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Over",
+    "line": 11.5,
+    "odds": 1.76
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Under",
+    "line": 11.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Justin Champagnie",
+    "side": "Over",
+    "line": 16.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Justin Champagnie",
+    "side": "Under",
+    "line": 16.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Carlton Carrington",
+    "side": "Over",
+    "line": 15.5,
+    "odds": 1.89
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Carlton Carrington",
+    "side": "Under",
+    "line": 15.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "AJ Johnson",
+    "side": "Over",
+    "line": 15.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "AJ Johnson",
+    "side": "Under",
+    "line": 15.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Paolo Banchero",
+    "side": "Over",
+    "line": 36.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Paolo Banchero",
+    "side": "Under",
+    "line": 36.5,
+    "odds": 1.89
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Alex Sarr",
+    "side": "Over",
+    "line": 22.5,
+    "odds": 1.94
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Alex Sarr",
+    "side": "Under",
+    "line": 22.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Jordan Poole",
+    "side": "Over",
+    "line": 19.5,
+    "odds": 1.94
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Jordan Poole",
+    "side": "Under",
+    "line": 19.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Cory Joseph",
+    "side": "Over",
+    "line": 9.5,
+    "odds": 1.78
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Cory Joseph",
+    "side": "Under",
+    "line": 9.5,
+    "odds": 1.96
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Wendell Carter Jr",
+    "side": "Over",
+    "line": 18.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Wendell Carter Jr",
+    "side": "Under",
+    "line": 18.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Franz Wagner",
+    "side": "Over",
+    "line": 29.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Franz Wagner",
+    "side": "Under",
+    "line": 29.5,
+    "odds": 1.94
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Paolo Banchero",
+    "side": "Over",
+    "line": 41.5,
+    "odds": 1.89
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Paolo Banchero",
+    "side": "Under",
+    "line": 41.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Jordan Poole",
+    "side": "Over",
+    "line": 23.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Jordan Poole",
+    "side": "Under",
+    "line": 23.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Franz Wagner",
+    "side": "Over",
+    "line": 34.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Franz Wagner",
+    "side": "Under",
+    "line": 34.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Carlton Carrington",
+    "side": "Over",
+    "line": 20.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Carlton Carrington",
+    "side": "Under",
+    "line": 20.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Cory Joseph",
+    "side": "Over",
+    "line": 13.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Cory Joseph",
+    "side": "Under",
+    "line": 13.5,
+    "odds": 1.76
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "AJ Johnson",
+    "side": "Over",
+    "line": 19.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "AJ Johnson",
+    "side": "Under",
+    "line": 19.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Franz Wagner",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 2.16
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Franz Wagner",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.65
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Alex Sarr",
+    "side": "Over",
+    "line": 5.5,
+    "odds": 1.65
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Alex Sarr",
+    "side": "Under",
+    "line": 5.5,
+    "odds": 2.16
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "AJ Johnson",
+    "side": "Over",
+    "line": 3.5,
+    "odds": 2.04
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "AJ Johnson",
+    "side": "Under",
+    "line": 3.5,
+    "odds": 1.72
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Paolo Banchero",
+    "side": "Over",
+    "line": 7.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Paolo Banchero",
+    "side": "Under",
+    "line": 7.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Wendell Carter Jr",
+    "side": "Over",
+    "line": 7.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Wendell Carter Jr",
+    "side": "Under",
+    "line": 7.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Carlton Carrington",
+    "side": "Over",
+    "line": 4.5,
+    "odds": 2.02
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Carlton Carrington",
+    "side": "Under",
+    "line": 4.5,
+    "odds": 1.74
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Over",
+    "line": 2.5,
+    "odds": 1.57
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Under",
+    "line": 2.5,
+    "odds": 2.3
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Jordan Poole",
+    "side": "Over",
+    "line": 2.5,
+    "odds": 2.4
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Jordan Poole",
+    "side": "Under",
+    "line": 2.5,
+    "odds": 1.53
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Justin Champagnie",
+    "side": "Over",
+    "line": 7.5,
+    "odds": 2.04
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Justin Champagnie",
+    "side": "Under",
+    "line": 7.5,
+    "odds": 1.72
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Cory Joseph",
+    "side": "Over",
+    "line": 3.5,
+    "odds": 2.16
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Cory Joseph",
+    "side": "Under",
+    "line": 3.5,
+    "odds": 1.65
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Paolo Banchero",
+    "side": "Over",
+    "line": 12.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Paolo Banchero",
+    "side": "Under",
+    "line": 12.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Cory Joseph",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Cory Joseph",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Jordan Poole",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 2.14
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Jordan Poole",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.66
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Franz Wagner",
+    "side": "Over",
+    "line": 10.5,
+    "odds": 1.68
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Franz Wagner",
+    "side": "Under",
+    "line": 10.5,
+    "odds": 2.12
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "AJ Johnson",
+    "side": "Over",
+    "line": 7.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "AJ Johnson",
+    "side": "Under",
+    "line": 7.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Carlton Carrington",
+    "side": "Over",
+    "line": 9.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Carlton Carrington",
+    "side": "Under",
+    "line": 9.5,
+    "odds": 1.89
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Franz Wagner",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Franz Wagner",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.78
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Kentavious Caldwell-Pope",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.96
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Alex Sarr",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.6
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Alex Sarr",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 2.24
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Cory Joseph",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 2.62
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Cory Joseph",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.45
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "AJ Johnson",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 2.16
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "AJ Johnson",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.65
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Justin Champagnie",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 2.62
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Justin Champagnie",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.45
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Paolo Banchero",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.49
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Paolo Banchero",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 2.52
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Carlton Carrington",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Carlton Carrington",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Jordan Poole",
+    "side": "Over",
+    "line": 3.5,
+    "odds": 2.26
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Jordan Poole",
+    "side": "Under",
+    "line": 3.5,
+    "odds": 1.6
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Jaren Jackson Jr",
+    "side": "Over",
+    "line": 21.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Jaren Jackson Jr",
+    "side": "Under",
+    "line": 21.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Desmond Bane",
+    "side": "Over",
+    "line": 18.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Desmond Bane",
+    "side": "Under",
+    "line": 18.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Tyler Herro",
+    "side": "Over",
+    "line": 25.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Tyler Herro",
+    "side": "Under",
+    "line": 25.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Ja Morant",
+    "side": "Over",
+    "line": 25.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Ja Morant",
+    "side": "Under",
+    "line": 25.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Bam Adebayo",
+    "side": "Over",
+    "line": 19.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "player_points",
+    "player": "Bam Adebayo",
+    "side": "Under",
+    "line": 19.5,
+    "odds": 1.95
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Tyler Herro",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 2.2
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Tyler Herro",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.62
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Bam Adebayo",
+    "side": "Over",
+    "line": 4.5,
+    "odds": 2.28
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Bam Adebayo",
+    "side": "Under",
+    "line": 4.5,
+    "odds": 1.58
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Desmond Bane",
+    "side": "Over",
+    "line": 4.5,
+    "odds": 1.69
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Desmond Bane",
+    "side": "Under",
+    "line": 4.5,
+    "odds": 2.08
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Ja Morant",
+    "side": "Over",
+    "line": 6.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_assists",
+    "player": "Ja Morant",
+    "side": "Under",
+    "line": 6.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Desmond Bane",
+    "side": "Over",
+    "line": 18.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Desmond Bane",
+    "side": "Under",
+    "line": 18.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Tyler Herro",
+    "side": "Over",
+    "line": 25.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Tyler Herro",
+    "side": "Under",
+    "line": 25.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Jaren Jackson Jr",
+    "side": "Over",
+    "line": 21.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Jaren Jackson Jr",
+    "side": "Under",
+    "line": 21.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Ja Morant",
+    "side": "Over",
+    "line": 24.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Ja Morant",
+    "side": "Under",
+    "line": 24.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Bam Adebayo",
+    "side": "Over",
+    "line": 19.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points",
+    "player": "Bam Adebayo",
+    "side": "Under",
+    "line": 19.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Ja Morant",
+    "side": "Over",
+    "line": 31.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Ja Morant",
+    "side": "Under",
+    "line": 31.5,
+    "odds": 1.94
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Desmond Bane",
+    "side": "Over",
+    "line": 23.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Desmond Bane",
+    "side": "Under",
+    "line": 23.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Tyler Herro",
+    "side": "Over",
+    "line": 32.5,
+    "odds": 1.96
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Tyler Herro",
+    "side": "Under",
+    "line": 32.5,
+    "odds": 1.78
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Bam Adebayo",
+    "side": "Over",
+    "line": 24.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_assists",
+    "player": "Bam Adebayo",
+    "side": "Under",
+    "line": 24.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Ja Morant",
+    "side": "Over",
+    "line": 29.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Ja Morant",
+    "side": "Under",
+    "line": 29.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Jaren Jackson Jr",
+    "side": "Over",
+    "line": 27.5,
+    "odds": 1.94
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Jaren Jackson Jr",
+    "side": "Under",
+    "line": 27.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Bam Adebayo",
+    "side": "Over",
+    "line": 28.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Bam Adebayo",
+    "side": "Under",
+    "line": 28.5,
+    "odds": 1.89
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Desmond Bane",
+    "side": "Over",
+    "line": 23.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Desmond Bane",
+    "side": "Under",
+    "line": 23.5,
+    "odds": 1.89
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Tyler Herro",
+    "side": "Over",
+    "line": 30.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds",
+    "player": "Tyler Herro",
+    "side": "Under",
+    "line": 30.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Tyler Herro",
+    "side": "Over",
+    "line": 36.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Tyler Herro",
+    "side": "Under",
+    "line": 36.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Bam Adebayo",
+    "side": "Over",
+    "line": 32.5,
+    "odds": 1.8
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Bam Adebayo",
+    "side": "Under",
+    "line": 32.5,
+    "odds": 1.94
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Ja Morant",
+    "side": "Over",
+    "line": 36.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Ja Morant",
+    "side": "Under",
+    "line": 36.5,
+    "odds": 1.88
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Desmond Bane",
+    "side": "Over",
+    "line": 28.5,
+    "odds": 1.83
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_points_rebounds_assists",
+    "player": "Desmond Bane",
+    "side": "Under",
+    "line": 28.5,
+    "odds": 1.91
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Jaren Jackson Jr",
+    "side": "Over",
+    "line": 5.5,
+    "odds": 1.69
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Jaren Jackson Jr",
+    "side": "Under",
+    "line": 5.5,
+    "odds": 2.08
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Desmond Bane",
+    "side": "Over",
+    "line": 5.5,
+    "odds": 2.08
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Desmond Bane",
+    "side": "Under",
+    "line": 5.5,
+    "odds": 1.69
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Tyler Herro",
+    "side": "Over",
+    "line": 4.5,
+    "odds": 1.93
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Tyler Herro",
+    "side": "Under",
+    "line": 4.5,
+    "odds": 1.82
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Ja Morant",
+    "side": "Over",
+    "line": 4.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Ja Morant",
+    "side": "Under",
+    "line": 4.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Bam Adebayo",
+    "side": "Over",
+    "line": 8.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds",
+    "player": "Bam Adebayo",
+    "side": "Under",
+    "line": 8.5,
+    "odds": 1.76
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Desmond Bane",
+    "side": "Over",
+    "line": 10.5,
+    "odds": 2.0
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Desmond Bane",
+    "side": "Under",
+    "line": 10.5,
+    "odds": 1.76
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Ja Morant",
+    "side": "Over",
+    "line": 11.5,
+    "odds": 2.02
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Ja Morant",
+    "side": "Under",
+    "line": 11.5,
+    "odds": 1.74
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Bam Adebayo",
+    "side": "Over",
+    "line": 12.5,
+    "odds": 1.85
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Bam Adebayo",
+    "side": "Under",
+    "line": 12.5,
+    "odds": 1.89
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Tyler Herro",
+    "side": "Over",
+    "line": 10.5,
+    "odds": 1.77
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_rebounds_assists",
+    "player": "Tyler Herro",
+    "side": "Under",
+    "line": 10.5,
+    "odds": 1.98
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Tyler Herro",
+    "side": "Over",
+    "line": 3.5,
+    "odds": 2.16
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Tyler Herro",
+    "side": "Under",
+    "line": 3.5,
+    "odds": 1.65
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Desmond Bane",
+    "side": "Over",
+    "line": 2.5,
+    "odds": 2.34
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Desmond Bane",
+    "side": "Under",
+    "line": 2.5,
+    "odds": 1.56
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Ja Morant",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.57
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Ja Morant",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 2.3
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Jaren Jackson Jr",
+    "side": "Over",
+    "line": 1.5,
+    "odds": 1.74
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "player_threes",
+    "player": "Jaren Jackson Jr",
+    "side": "Under",
+    "line": 1.5,
+    "odds": 2.02
   }
 ]

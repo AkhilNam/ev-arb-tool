@@ -17,11 +17,12 @@ def run_ev_pipeline():
     # Load data either from the saved JSON or live fetch
     if DEV_MODE:
         print("[DEV MODE] Loading props from saved JSON file...")
+        all_props = []
         try:
             with open(SAVED_JSON, "r") as f:
                 props_data = json.load(f)
-                parsed = extract_props(props_data.get("bookmakers", []))
-                all_props.extend(parsed)
+                # Since props_data is already a list of props, no need to re-parse.
+                all_props.extend(props_data)
         except FileNotFoundError:
             print(f"❌ No saved JSON file found at {SAVED_JSON}. Please fetch live data first.")
             return
@@ -44,7 +45,8 @@ def run_ev_pipeline():
 
         # After the loop, save all props into the JSON file
         with open(SAVED_JSON, "w") as f:
-            json.dump(all_props, f, indent=2)  # Save all props data to JSON file
+            json.dump(all_props, f, indent=2)
+
 
         # Create dataframe from all accumulated props
         df = pd.DataFrame(all_props)
@@ -101,7 +103,7 @@ def run_ev_pipeline():
     df["ev"] = df.apply(lambda row: calculate_ev(row["odds"], row["fair_prob"]), axis=1)
 
     # Filter EV > 0.02 and flag value bets
-    ev_df = df[df["ev"] > 0.02].copy()
+    ev_df = df[df["ev"] > -0.02].copy()
     ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 VALUE" if x > 0.05 else "")
     ev_df = ev_df.sort_values(by="ev", ascending=False)
 
