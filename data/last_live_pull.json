@@ -1,1920 +1,126 @@
 {
-  "id": "f91462c98c164bb8765aaee95800b2a4",
+  "id": "6578b9d1dbb7c5574f00c3f79ace17ac",
   "sport_key": "basketball_nba",
   "sport_title": "NBA",
-  "commence_time": "2025-04-03T00:40:00Z",
-  "home_team": "Dallas Mavericks",
-  "away_team": "Atlanta Hawks",
+  "commence_time": "2025-04-03T23:10:00Z",
+  "home_team": "Philadelphia 76ers",
+  "away_team": "Milwaukee Bucks",
   "bookmakers": [
-    {
-      "key": "draftkings",
-      "title": "DraftKings",
-      "markets": [
-        {
-          "key": "player_assists",
-          "last_update": "2025-04-03T01:42:16Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.77,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 2.0,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.7,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 2.1,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.68,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 2.15,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 2.2,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.65,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.65,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 2.2,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.95,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.8,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 2.1,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.7,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 2.35,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 1.57,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Caleb Martin",
-              "price": 1.51,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Caleb Martin",
-              "price": 2.5,
-              "point": 2.5
-            }
-          ]
-        },
-        {
-          "key": "player_points",
-          "last_update": "2025-04-03T01:42:16Z",
-          "outcomes": [
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 2.0,
-              "point": 33.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.77,
-              "point": 33.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.95,
-              "point": 26.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.8,
-              "point": 26.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.91,
-              "point": 18.5
-            },
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.83,
-              "point": 18.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.95,
-              "point": 17.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 1.8,
-              "point": 17.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.77,
-              "point": 16.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 2.0,
-              "point": 16.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.77,
-              "point": 15.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 2.0,
-              "point": 15.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 2.0,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.77,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 1.8,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.95,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.91,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 1.83,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 1.87,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.87,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.95,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 1.8,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Mouhamed Gueye",
-              "price": 1.95,
-              "point": 9.5
-            },
-            {
-              "name": "Over",
-              "description": "Mouhamed Gueye",
-              "price": 1.8,
-              "point": 9.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 1.95,
-              "point": 7.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 1.8,
-              "point": 7.5
-            },
-            {
-              "name": "Over",
-              "description": "Caleb Martin",
-              "price": 1.91,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Caleb Martin",
-              "price": 1.83,
-              "point": 6.5
-            }
-          ]
-        },
-        {
-          "key": "player_rebounds",
-          "last_update": "2025-04-03T01:42:16Z",
-          "outcomes": [
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.65,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 2.2,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.7,
-              "point": 10.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 2.1,
-              "point": 10.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.68,
-              "point": 7.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 2.15,
-              "point": 7.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 2.2,
-              "point": 7.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 1.65,
-              "point": 7.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.95,
-              "point": 4.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 1.8,
-              "point": 4.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 2.15,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.68,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Mouhamed Gueye",
-              "price": 2.05,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Mouhamed Gueye",
-              "price": 1.74,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.77,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 2.0,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 1.83,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.91,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Dereck Lively II",
-              "price": 1.74,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Dereck Lively II",
-              "price": 2.05,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.65,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 2.2,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 1.77,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 2.0,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 1.83,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.91,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.77,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 2.0,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Caleb Martin",
-              "price": 2.05,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Caleb Martin",
-              "price": 1.74,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.74,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Terance Mann",
-              "price": 2.05,
-              "point": 2.5
-            }
-          ]
-        }
-      ]
-    },
     {
       "key": "fanatics",
       "title": "Fanatics",
       "markets": [
         {
           "key": "player_points",
-          "last_update": "2025-04-03T01:42:09Z",
+          "last_update": "2025-04-03T03:50:40Z",
           "outcomes": [
             {
               "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.95,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 1.8,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 1.8,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.95,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.8,
-              "point": 26.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.95,
-              "point": 26.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
+              "description": "Kyle Kuzma",
               "price": 1.87,
               "point": 17.5
             },
             {
               "name": "Under",
-              "description": "Klay Thompson",
+              "description": "Kyle Kuzma",
               "price": 1.87,
               "point": 17.5
             },
             {
               "name": "Over",
-              "description": "Georges Niang",
-              "price": 2.1,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 1.69,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 1.87,
+              "description": "Brook Lopez",
+              "price": 1.91,
               "point": 15.5
             },
             {
               "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.87,
+              "description": "Brook Lopez",
+              "price": 1.83,
               "point": 15.5
             },
             {
               "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.8,
-              "point": 18.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.95,
-              "point": 18.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.91,
-              "point": 16.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.83,
-              "point": 16.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.8,
-              "point": 34.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.95,
-              "point": 34.5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "espnbet",
-      "title": "ESPN BET",
-      "markets": [
-        {
-          "key": "player_points",
-          "last_update": "2025-04-03T01:42:21Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.77,
-              "point": 33.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.91,
-              "point": 33.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.77,
-              "point": 25.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.91,
-              "point": 25.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.8,
-              "point": 16.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
+              "description": "Adem Bona",
               "price": 1.87,
-              "point": 16.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 2.0,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 1.71,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.77,
-              "point": 18.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.91,
-              "point": 18.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 1.95,
-              "point": 13.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.74,
-              "point": 13.5
-            },
-            {
-              "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 1.77,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.91,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.8,
-              "point": 15.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.87,
-              "point": 15.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 1.71,
-              "point": 15.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 2.0,
-              "point": 15.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.74,
-              "point": 13.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 1.95,
-              "point": 13.5
-            },
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 1.87,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.8,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 1.77,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 1.91,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Terance Mann",
-              "price": 1.8,
-              "point": 5.5
-            },
-            {
-              "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.87,
-              "point": 5.5
-            },
-            {
-              "name": "Over",
-              "description": "Caleb Martin",
-              "price": 1.83,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Caleb Martin",
-              "price": 1.83,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Mouhamed Gueye",
-              "price": 1.62,
-              "point": 8.5
-            },
-            {
-              "name": "Under",
-              "description": "Mouhamed Gueye",
-              "price": 2.1,
-              "point": 8.5
-            }
-          ]
-        },
-        {
-          "key": "player_rebounds",
-          "last_update": "2025-04-03T01:42:21Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.91,
-              "point": 10.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.77,
-              "point": 10.5
-            },
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.83,
-              "point": 10.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.83,
-              "point": 10.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.61,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 2.15,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 2.0,
-              "point": 7.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.71,
-              "point": 7.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.54,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 2.3,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 2.0,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.71,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 1.77,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.91,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Mouhamed Gueye",
-              "price": 2.3,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Mouhamed Gueye",
-              "price": 1.54,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Caleb Martin",
-              "price": 1.83,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Caleb Martin",
-              "price": 1.83,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 2.0,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.71,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 2.1,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.62,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.95,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.74,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.87,
-              "point": 4.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 1.8,
-              "point": 4.5
-            },
-            {
-              "name": "Over",
-              "description": "Terance Mann",
-              "price": 2.15,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.61,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 2.45,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 1.47,
-              "point": 2.5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "fliff",
-      "title": "Fliff",
-      "markets": [
-        {
-          "key": "player_assists",
-          "last_update": "2025-04-03T01:42:06Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.57,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 2.15,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.87,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.74,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 2.35,
-              "point": 7.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 1.5,
-              "point": 7.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 2.1,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.61,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 2.35,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.5,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 1.39,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 2.65,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.39,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 2.65,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Jaden Hardy",
-              "price": 1.57,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Jaden Hardy",
-              "price": 2.15,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Terance Mann",
-              "price": 1.71,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.91,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 2.05,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.62,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Dominick Barlow",
-              "price": 2.85,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Dominick Barlow",
-              "price": 1.34,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Vit Krejci",
-              "price": 1.57,
-              "point": 0.5
-            },
-            {
-              "name": "Under",
-              "description": "Vit Krejci",
-              "price": 2.15,
-              "point": 0.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.74,
-              "point": 0.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 1.91,
-              "point": 0.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 2.1,
-              "point": 0.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 1.61,
-              "point": 0.5
-            },
-            {
-              "name": "Over",
-              "description": "Mouhamed Gueye",
-              "price": 3.4,
-              "point": 0.5
-            },
-            {
-              "name": "Under",
-              "description": "Mouhamed Gueye",
-              "price": 1.25,
-              "point": 0.5
-            }
-          ]
-        },
-        {
-          "key": "player_points",
-          "last_update": "2025-04-03T01:42:06Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.83,
-              "point": 34.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.8,
-              "point": 34.5
-            },
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.87,
-              "point": 19.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.77,
-              "point": 19.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.87,
-              "point": 16.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.77,
-              "point": 16.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.87,
-              "point": 16.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 1.77,
-              "point": 16.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 1.95,
-              "point": 16.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.69,
-              "point": 16.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.87,
-              "point": 13.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 1.77,
-              "point": 13.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 1.91,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.71,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 1.69,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.95,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.83,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 1.8,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Jaden Hardy",
-              "price": 1.91,
               "point": 9.5
             },
             {
               "name": "Under",
-              "description": "Jaden Hardy",
-              "price": 1.71,
-              "point": 9.5
-            },
-            {
-              "name": "Over",
-              "description": "Mouhamed Gueye",
-              "price": 2.05,
-              "point": 9.5
-            },
-            {
-              "name": "Under",
-              "description": "Mouhamed Gueye",
-              "price": 1.62,
-              "point": 9.5
-            },
-            {
-              "name": "Over",
-              "description": "Vit Krejci",
-              "price": 1.71,
-              "point": 7.5
-            },
-            {
-              "name": "Under",
-              "description": "Vit Krejci",
-              "price": 1.95,
-              "point": 7.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 2.1,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 1.62,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Terance Mann",
-              "price": 1.8,
-              "point": 4.5
-            },
-            {
-              "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.83,
-              "point": 4.5
-            },
-            {
-              "name": "Over",
-              "description": "Dominick Barlow",
-              "price": 1.71,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Dominick Barlow",
-              "price": 1.95,
-              "point": 1.5
-            }
-          ]
-        },
-        {
-          "key": "player_rebounds",
-          "last_update": "2025-04-03T01:42:06Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 2.0,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.67,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 2.1,
-              "point": 7.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.61,
-              "point": 7.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.69,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 1.95,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.67,
-              "point": 4.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 2.0,
-              "point": 4.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.77,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
+              "description": "Adem Bona",
               "price": 1.87,
-              "point": 3.5
+              "point": 9.5
             },
             {
               "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 1.8,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.83,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.95,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.69,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Terance Mann",
-              "price": 2.4,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.48,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Vit Krejci",
-              "price": 2.4,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Vit Krejci",
-              "price": 1.48,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 2.45,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 1.47,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Dominick Barlow",
-              "price": 1.95,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Dominick Barlow",
-              "price": 1.71,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Jaden Hardy",
-              "price": 1.83,
-              "point": 0.5
-            },
-            {
-              "name": "Under",
-              "description": "Jaden Hardy",
-              "price": 1.8,
-              "point": 0.5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "fanduel",
-      "title": "FanDuel",
-      "markets": [
-        {
-          "key": "player_assists",
-          "last_update": "2025-04-03T01:39:06Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 2.18,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.63,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.77,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.98,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 2.06,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.71,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.72,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 2.04,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.65,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 2.16,
-              "point": 6.5
-            }
-          ]
-        },
-        {
-          "key": "player_points",
-          "last_update": "2025-04-03T01:39:06Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.85,
-              "point": 18.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.89,
-              "point": 18.5
-            },
-            {
-              "name": "Over",
-              "description": "Terance Mann",
-              "price": 1.88,
-              "point": 4.5
-            },
-            {
-              "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.88,
-              "point": 4.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 1.62,
-              "point": 5.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 2.2,
-              "point": 5.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.89,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 1.85,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 2.04,
-              "point": 13.5
-            },
-            {
-              "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.72,
-              "point": 13.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.71,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 2.06,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 1.88,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.88,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.98,
-              "point": 34.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.77,
-              "point": 34.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.98,
-              "point": 16.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.77,
-              "point": 16.5
-            },
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 1.88,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.88,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.93,
-              "point": 27.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.82,
-              "point": 27.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 2.04,
-              "point": 15.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.72,
-              "point": 15.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 2.0,
-              "point": 17.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 1.76,
-              "point": 17.5
-            },
-            {
-              "name": "Over",
-              "description": "Jaden Hardy",
-              "price": 1.88,
+              "description": "Taurean Prince",
+              "price": 1.87,
               "point": 9.5
             },
             {
               "name": "Under",
-              "description": "Jaden Hardy",
-              "price": 1.88,
+              "description": "Taurean Prince",
+              "price": 1.87,
               "point": 9.5
-            }
-          ]
-        },
-        {
-          "key": "player_rebounds",
-          "last_update": "2025-04-03T01:39:06Z",
-          "outcomes": [
+            },
             {
               "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.94,
-              "point": 4.5
+              "description": "Ricky Council IV",
+              "price": 1.95,
+              "point": 13.5
             },
             {
               "name": "Under",
-              "description": "Klay Thompson",
+              "description": "Ricky Council IV",
               "price": 1.8,
-              "point": 4.5
+              "point": 13.5
             },
             {
               "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.88,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.88,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 2.12,
+              "description": "Guerschon Yabusele",
+              "price": 1.8,
               "point": 11.5
             },
             {
               "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.68,
+              "description": "Guerschon Yabusele",
+              "price": 1.95,
               "point": 11.5
             },
             {
               "name": "Over",
-              "description": "Caris LeVert",
-              "price": 2.18,
-              "point": 3.5
+              "description": "Ryan Rollins",
+              "price": 1.95,
+              "point": 11.5
             },
             {
               "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.63,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.68,
-              "point": 10.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 2.1,
-              "point": 10.5
-            },
-            {
-              "name": "Over",
-              "description": "Mouhamed Gueye",
-              "price": 2.1,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Mouhamed Gueye",
-              "price": 1.68,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.63,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 2.18,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.94,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
+              "description": "Ryan Rollins",
               "price": 1.8,
-              "point": 2.5
+              "point": 11.5
             },
             {
               "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.66,
-              "point": 3.5
+              "description": "Giannis Antetokounmpo",
+              "price": 1.83,
+              "point": 30.5
             },
             {
               "name": "Under",
-              "description": "Naji Marshall",
-              "price": 2.14,
-              "point": 3.5
+              "description": "Giannis Antetokounmpo",
+              "price": 1.91,
+              "point": 30.5
             },
             {
               "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 1.78,
-              "point": 2.5
+              "description": "Quentin Grimes",
+              "price": 1.87,
+              "point": 23.5
             },
             {
               "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.96,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 1.58,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 2.28,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 2.22,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.62,
-              "point": 3.5
+              "description": "Quentin Grimes",
+              "price": 1.87,
+              "point": 23.5
             }
           ]
         }
@@ -1926,835 +132,1015 @@
       "markets": [
         {
           "key": "player_assists",
-          "last_update": "2025-04-03T01:42:03Z",
+          "last_update": "2025-04-03T03:51:14Z",
           "outcomes": [
             {
               "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.87,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.8,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.91,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.77,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Terance Mann",
-              "price": 1.77,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.91,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 1.91,
-              "point": 0.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 1.77,
-              "point": 0.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
+              "description": "Ryan Rollins",
               "price": 1.95,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Ryan Rollins",
+              "price": 1.74,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Kuzma",
+              "price": 2.0,
               "point": 2.5
             },
             {
               "name": "Under",
-              "description": "Anthony Davis",
+              "description": "Kyle Kuzma",
+              "price": 1.71,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.71,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Giannis Antetokounmpo",
+              "price": 2.0,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Quentin Grimes",
+              "price": 1.87,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Quentin Grimes",
+              "price": 1.83,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Ricky Council IV",
               "price": 1.74,
               "point": 2.5
             },
             {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 1.54,
-              "point": 5.5
-            },
-            {
               "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 2.3,
-              "point": 5.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.57,
-              "point": 0.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 2.2,
-              "point": 0.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.5,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 2.4,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.48,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 2.45,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 2.6,
-              "point": 1.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.43,
-              "point": 1.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 2.55,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.43,
+              "description": "Ricky Council IV",
+              "price": 1.95,
               "point": 2.5
             },
             {
               "name": "Over",
-              "description": "Caleb Martin",
-              "price": 2.55,
+              "description": "Brook Lopez",
+              "price": 2.25,
               "point": 2.5
             },
             {
               "name": "Under",
-              "description": "Caleb Martin",
-              "price": 1.44,
+              "description": "Brook Lopez",
+              "price": 1.56,
               "point": 2.5
             },
             {
               "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.43,
+              "description": "Guerschon Yabusele",
+              "price": 2.1,
               "point": 2.5
             },
             {
               "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 2.6,
+              "description": "Guerschon Yabusele",
+              "price": 1.65,
               "point": 2.5
             }
           ]
         },
         {
           "key": "player_points",
-          "last_update": "2025-04-03T01:42:03Z",
+          "last_update": "2025-04-03T03:51:14Z",
           "outcomes": [
             {
               "name": "Over",
-              "description": "Zaccharie Risacher",
+              "description": "Kyle Kuzma",
               "price": 1.83,
-              "point": 12.5
+              "point": 17.5
             },
             {
               "name": "Under",
-              "description": "Zaccharie Risacher",
+              "description": "Kyle Kuzma",
               "price": 1.91,
-              "point": 12.5
+              "point": 17.5
             },
             {
               "name": "Over",
-              "description": "Klay Thompson",
+              "description": "Quentin Grimes",
               "price": 1.83,
-              "point": 16.5
+              "point": 23.5
             },
             {
               "name": "Under",
-              "description": "Klay Thompson",
+              "description": "Quentin Grimes",
               "price": 1.91,
-              "point": 16.5
+              "point": 23.5
             },
             {
               "name": "Over",
-              "description": "Max Christie",
-              "price": 1.91,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.83,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Terance Mann",
-              "price": 1.83,
-              "point": 5.5
-            },
-            {
-              "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.91,
-              "point": 5.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.83,
-              "point": 15.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
+              "description": "Brook Lopez",
               "price": 1.91,
               "point": 15.5
             },
             {
+              "name": "Under",
+              "description": "Brook Lopez",
+              "price": 1.83,
+              "point": 15.5
+            },
+            {
               "name": "Over",
-              "description": "Caleb Martin",
+              "description": "Taurean Prince",
               "price": 1.87,
-              "point": 6.5
+              "point": 9.5
             },
             {
               "name": "Under",
-              "description": "Caleb Martin",
+              "description": "Taurean Prince",
               "price": 1.87,
-              "point": 6.5
+              "point": 9.5
             },
             {
               "name": "Over",
-              "description": "Georges Niang",
-              "price": 1.8,
-              "point": 6.5
+              "description": "Giannis Antetokounmpo",
+              "price": 1.87,
+              "point": 30.5
             },
             {
               "name": "Under",
-              "description": "Georges Niang",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.87,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Rollins",
               "price": 1.95,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 2.0,
-              "point": 13.5
+              "point": 11.5
             },
             {
               "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.77,
-              "point": 13.5
+              "description": "Ryan Rollins",
+              "price": 1.8,
+              "point": 11.5
             },
             {
               "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.77,
-              "point": 13.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 2.0,
-              "point": 13.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 1.77,
-              "point": 15.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 2.0,
-              "point": 15.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 2.0,
+              "description": "Justin Edwards",
+              "price": 1.8,
               "point": 12.5
             },
             {
               "name": "Under",
-              "description": "Naji Marshall",
-              "price": 1.74,
+              "description": "Justin Edwards",
+              "price": 1.95,
               "point": 12.5
             },
             {
               "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.8,
-              "point": 25.5
+              "description": "Guerschon Yabusele",
+              "price": 1.83,
+              "point": 11.5
             },
             {
               "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.95,
-              "point": 25.5
+              "description": "Guerschon Yabusele",
+              "price": 1.91,
+              "point": 11.5
             },
             {
               "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.8,
-              "point": 18.5
+              "description": "Adem Bona",
+              "price": 1.83,
+              "point": 9.5
             },
             {
               "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.95,
-              "point": 18.5
+              "description": "Adem Bona",
+              "price": 1.91,
+              "point": 9.5
             },
             {
               "name": "Over",
-              "description": "Trae Young",
-              "price": 1.8,
-              "point": 33.5
+              "description": "Ricky Council IV",
+              "price": 2.0,
+              "point": 13.5
             },
             {
               "name": "Under",
-              "description": "Trae Young",
-              "price": 1.95,
-              "point": 33.5
-            },
-            {
-              "name": "Over",
-              "description": "Mouhamed Gueye",
-              "price": 1.67,
-              "point": 8.5
-            },
-            {
-              "name": "Under",
-              "description": "Mouhamed Gueye",
-              "price": 2.15,
-              "point": 8.5
+              "description": "Ricky Council IV",
+              "price": 1.77,
+              "point": 13.5
             }
           ]
         },
         {
           "key": "player_rebounds",
-          "last_update": "2025-04-03T01:42:03Z",
+          "last_update": "2025-04-03T03:51:14Z",
           "outcomes": [
             {
               "name": "Over",
-              "description": "Klay Thompson",
+              "description": "Giannis Antetokounmpo",
               "price": 1.87,
-              "point": 4.5
+              "point": 12.5
             },
             {
               "name": "Under",
-              "description": "Klay Thompson",
+              "description": "Giannis Antetokounmpo",
               "price": 1.8,
+              "point": 12.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Kuzma",
+              "price": 1.95,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Kuzma",
+              "price": 1.74,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Rollins",
+              "price": 1.71,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Ryan Rollins",
+              "price": 1.95,
               "point": 4.5
             },
             {
               "name": "Over",
-              "description": "Caleb Martin",
-              "price": 1.83,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Caleb Martin",
-              "price": 1.83,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 1.77,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.91,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.91,
-              "point": 10.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.77,
-              "point": 10.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
+              "description": "Taurean Prince",
               "price": 2.0,
-              "point": 7.5
+              "point": 4.5
             },
             {
               "name": "Under",
-              "description": "Dyson Daniels",
+              "description": "Taurean Prince",
               "price": 1.71,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Ricky Council IV",
+              "price": 1.95,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Ricky Council IV",
+              "price": 1.74,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Adem Bona",
+              "price": 1.74,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Adem Bona",
+              "price": 1.95,
               "point": 7.5
             },
             {
               "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.83,
-              "point": 10.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.87,
-              "point": 10.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.95,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.74,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 2.0,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
+              "description": "Justin Edwards",
               "price": 1.69,
               "point": 3.5
             },
             {
-              "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 2.0,
-              "point": 2.5
-            },
-            {
               "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.71,
-              "point": 2.5
+              "description": "Justin Edwards",
+              "price": 2.05,
+              "point": 3.5
             },
             {
               "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.59,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 2.2,
-              "point": 6.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
+              "description": "Quentin Grimes",
               "price": 2.1,
-              "point": 3.5
+              "point": 4.5
             },
             {
               "name": "Under",
-              "description": "Spencer Dinwiddie",
+              "description": "Quentin Grimes",
               "price": 1.62,
-              "point": 3.5
+              "point": 4.5
             },
             {
               "name": "Over",
-              "description": "Mouhamed Gueye",
-              "price": 2.3,
-              "point": 3.5
+              "description": "Guerschon Yabusele",
+              "price": 2.05,
+              "point": 6.5
             },
             {
               "name": "Under",
-              "description": "Mouhamed Gueye",
-              "price": 1.53,
-              "point": 3.5
+              "description": "Guerschon Yabusele",
+              "price": 1.69,
+              "point": 6.5
             },
             {
               "name": "Over",
-              "description": "Terance Mann",
-              "price": 2.15,
-              "point": 2.5
+              "description": "Brook Lopez",
+              "price": 1.65,
+              "point": 6.5
             },
             {
               "name": "Under",
-              "description": "Terance Mann",
-              "price": 1.62,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Georges Niang",
-              "price": 2.45,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Georges Niang",
-              "price": 1.48,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.54,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 2.3,
-              "point": 3.5
+              "description": "Brook Lopez",
+              "price": 2.1,
+              "point": 6.5
             }
           ]
         }
       ]
     },
     {
-      "key": "williamhill_us",
-      "title": "Caesars",
+      "key": "espnbet",
+      "title": "ESPN BET",
       "markets": [
         {
           "key": "player_assists",
-          "last_update": "2025-04-03T01:42:16Z",
+          "last_update": "2025-04-03T03:51:20Z",
           "outcomes": [
             {
               "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.75,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.93,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 2.03,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.68,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.6,
+              "description": "Giannis Antetokounmpo",
+              "price": 1.77,
               "point": 6.5
             },
             {
               "name": "Under",
-              "description": "Naji Marshall",
-              "price": 2.15,
+              "description": "Giannis Antetokounmpo",
+              "price": 2.0,
               "point": 6.5
             },
             {
               "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.78,
-              "point": 2.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.89,
-              "point": 2.5
-            },
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 2.15,
-              "point": 6.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.6,
-              "point": 6.5
-            }
-          ]
-        },
-        {
-          "key": "player_points",
-          "last_update": "2025-04-03T01:42:16Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Dyson Daniels",
-              "price": 1.78,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Dyson Daniels",
-              "price": 1.89,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 1.7,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.99,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Caris LeVert",
-              "price": 1.86,
-              "point": 15.5
-            },
-            {
-              "name": "Under",
-              "description": "Caris LeVert",
-              "price": 1.81,
-              "point": 15.5
-            },
-            {
-              "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.78,
-              "point": 18.5
-            },
-            {
-              "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.89,
-              "point": 18.5
-            },
-            {
-              "name": "Over",
-              "description": "Spencer Dinwiddie",
-              "price": 1.99,
-              "point": 16.5
-            },
-            {
-              "name": "Under",
-              "description": "Spencer Dinwiddie",
-              "price": 1.7,
-              "point": 16.5
-            },
-            {
-              "name": "Over",
-              "description": "Trae Young",
-              "price": 1.83,
-              "point": 34.5
-            },
-            {
-              "name": "Under",
-              "description": "Trae Young",
-              "price": 1.83,
-              "point": 34.5
-            },
-            {
-              "name": "Over",
-              "description": "Daniel Gafford",
-              "price": 1.81,
-              "point": 13.5
-            },
-            {
-              "name": "Under",
-              "description": "Daniel Gafford",
-              "price": 1.86,
-              "point": 13.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.93,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 1.75,
-              "point": 12.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.89,
-              "point": 17.5
-            },
-            {
-              "name": "Under",
-              "description": "Klay Thompson",
-              "price": 1.78,
-              "point": 17.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 1.81,
-              "point": 26.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.86,
-              "point": 26.5
-            },
-            {
-              "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 1.75,
-              "point": 12.5
-            },
-            {
-              "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.93,
-              "point": 12.5
-            }
-          ]
-        },
-        {
-          "key": "player_rebounds",
-          "last_update": "2025-04-03T01:42:16Z",
-          "outcomes": [
-            {
-              "name": "Over",
-              "description": "Max Christie",
-              "price": 2.11,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Max Christie",
-              "price": 1.62,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Anthony Davis",
-              "price": 2.19,
-              "point": 11.5
-            },
-            {
-              "name": "Under",
-              "description": "Anthony Davis",
-              "price": 1.58,
-              "point": 11.5
-            },
-            {
-              "name": "Over",
-              "description": "Naji Marshall",
-              "price": 1.6,
-              "point": 3.5
-            },
-            {
-              "name": "Under",
-              "description": "Naji Marshall",
-              "price": 2.15,
-              "point": 3.5
-            },
-            {
-              "name": "Over",
-              "description": "Klay Thompson",
-              "price": 1.91,
+              "description": "Ryan Rollins",
+              "price": 2.0,
               "point": 4.5
             },
             {
               "name": "Under",
-              "description": "Klay Thompson",
+              "description": "Ryan Rollins",
               "price": 1.77,
               "point": 4.5
             },
             {
               "name": "Over",
-              "description": "Onyeka Okongwu",
-              "price": 1.7,
-              "point": 10.5
+              "description": "Quentin Grimes",
+              "price": 1.91,
+              "point": 4.5
             },
             {
               "name": "Under",
-              "description": "Onyeka Okongwu",
-              "price": 1.99,
-              "point": 10.5
+              "description": "Quentin Grimes",
+              "price": 1.83,
+              "point": 4.5
             },
             {
               "name": "Over",
-              "description": "Zaccharie Risacher",
-              "price": 1.81,
+              "description": "Ricky Council IV",
+              "price": 1.8,
               "point": 2.5
             },
             {
               "name": "Under",
-              "description": "Zaccharie Risacher",
-              "price": 1.86,
+              "description": "Ricky Council IV",
+              "price": 1.95,
               "point": 2.5
             },
             {
               "name": "Over",
-              "description": "Trae Young",
-              "price": 1.93,
+              "description": "Guerschon Yabusele",
+              "price": 2.1,
               "point": 2.5
             },
             {
               "name": "Under",
-              "description": "Trae Young",
-              "price": 1.75,
+              "description": "Guerschon Yabusele",
+              "price": 1.69,
               "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Brook Lopez",
+              "price": 2.25,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Brook Lopez",
+              "price": 1.59,
+              "point": 2.5
+            },
+            {
+              "name": "Over",
+              "description": "Adem Bona",
+              "price": 1.53,
+              "point": 0.5
+            },
+            {
+              "name": "Under",
+              "description": "Adem Bona",
+              "price": 2.35,
+              "point": 0.5
+            },
+            {
+              "name": "Over",
+              "description": "Taurean Prince",
+              "price": 1.59,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Taurean Prince",
+              "price": 2.25,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T03:51:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.87,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.87,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Kuzma",
+              "price": 1.83,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Kuzma",
+              "price": 1.91,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Quentin Grimes",
+              "price": 1.83,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Quentin Grimes",
+              "price": 1.91,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "Brook Lopez",
+              "price": 1.91,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "Brook Lopez",
+              "price": 1.83,
+              "point": 15.5
+            },
+            {
+              "name": "Over",
+              "description": "Taurean Prince",
+              "price": 1.87,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Taurean Prince",
+              "price": 1.87,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Guerschon Yabusele",
+              "price": 1.83,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Guerschon Yabusele",
+              "price": 1.91,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Ricky Council IV",
+              "price": 1.95,
+              "point": 13.5
+            },
+            {
+              "name": "Under",
+              "description": "Ricky Council IV",
+              "price": 1.8,
+              "point": 13.5
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Rollins",
+              "price": 1.95,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Ryan Rollins",
+              "price": 1.8,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Adem Bona",
+              "price": 1.83,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Adem Bona",
+              "price": 1.91,
+              "point": 9.5
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-04-03T03:51:20Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.91,
+              "point": 12.5
+            },
+            {
+              "name": "Under",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.83,
+              "point": 12.5
+            },
+            {
+              "name": "Over",
+              "description": "Adem Bona",
+              "price": 1.77,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Adem Bona",
+              "price": 2.0,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Ricky Council IV",
+              "price": 1.95,
+              "point": 5.5
+            },
+            {
+              "name": "Under",
+              "description": "Ricky Council IV",
+              "price": 1.8,
+              "point": 5.5
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Rollins",
+              "price": 1.77,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Ryan Rollins",
+              "price": 2.0,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Guerschon Yabusele",
+              "price": 2.05,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Guerschon Yabusele",
+              "price": 1.71,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Brook Lopez",
+              "price": 1.69,
+              "point": 6.5
+            },
+            {
+              "name": "Under",
+              "description": "Brook Lopez",
+              "price": 2.1,
+              "point": 6.5
+            },
+            {
+              "name": "Over",
+              "description": "Quentin Grimes",
+              "price": 2.15,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Quentin Grimes",
+              "price": 1.67,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Taurean Prince",
+              "price": 2.0,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Taurean Prince",
+              "price": 1.77,
+              "point": 4.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "underdog",
+      "title": "Underdog",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-04-03T03:50:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Quentin Grimes",
+              "price": 1.73,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Quentin Grimes",
+              "price": 1.73,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Edwards",
+              "price": 1.73,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Edwards",
+              "price": 1.73,
+              "point": 1.5
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T03:50:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.73,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.73,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Kuzma",
+              "price": 1.73,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Kuzma",
+              "price": 1.73,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Brook Lopez",
+              "price": 1.73,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "Brook Lopez",
+              "price": 1.73,
+              "point": 15.5
+            },
+            {
+              "name": "Over",
+              "description": "Taurean Prince",
+              "price": 1.73,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Taurean Prince",
+              "price": 1.73,
+              "point": 9.5
+            },
+            {
+              "name": "Over",
+              "description": "Quentin Grimes",
+              "price": 1.73,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Quentin Grimes",
+              "price": 1.73,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "Guerschon Yabusele",
+              "price": 1.73,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Guerschon Yabusele",
+              "price": 1.73,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Edwards",
+              "price": 1.73,
+              "point": 12.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Edwards",
+              "price": 1.73,
+              "point": 12.5
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Rollins",
+              "price": 1.73,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Ryan Rollins",
+              "price": 1.73,
+              "point": 11.5
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-04-03T03:50:23Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.73,
+              "point": 12.5
+            },
+            {
+              "name": "Under",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.73,
+              "point": 12.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "prizepicks",
+      "title": "PrizePicks",
+      "markets": [
+        {
+          "key": "player_assists",
+          "last_update": "2025-04-03T03:51:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Justin Edwards",
+              "price": 1.73,
+              "point": 1.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Edwards",
+              "price": 1.73,
+              "point": 1.5
+            },
+            {
+              "name": "Over",
+              "description": "Quentin Grimes",
+              "price": 1.73,
+              "point": 4.5
+            },
+            {
+              "name": "Under",
+              "description": "Quentin Grimes",
+              "price": 1.73,
+              "point": 4.5
+            },
+            {
+              "name": "Over",
+              "description": "Ricky Council IV",
+              "price": 1.73,
+              "point": 2.5
+            },
+            {
+              "name": "Under",
+              "description": "Ricky Council IV",
+              "price": 1.73,
+              "point": 2.5
+            }
+          ]
+        },
+        {
+          "key": "player_points",
+          "last_update": "2025-04-03T03:51:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Brook Lopez",
+              "price": 1.73,
+              "point": 15.5
+            },
+            {
+              "name": "Under",
+              "description": "Brook Lopez",
+              "price": 1.73,
+              "point": 15.5
+            },
+            {
+              "name": "Over",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.73,
+              "point": 30.5
+            },
+            {
+              "name": "Under",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.73,
+              "point": 30.5
+            },
+            {
+              "name": "Over",
+              "description": "Guerschon Yabusele",
+              "price": 1.73,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Guerschon Yabusele",
+              "price": 1.73,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Kuzma",
+              "price": 1.73,
+              "point": 17.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Kuzma",
+              "price": 1.73,
+              "point": 17.5
+            },
+            {
+              "name": "Over",
+              "description": "Justin Edwards",
+              "price": 1.73,
+              "point": 13.5
+            },
+            {
+              "name": "Under",
+              "description": "Justin Edwards",
+              "price": 1.73,
+              "point": 13.5
+            },
+            {
+              "name": "Over",
+              "description": "Ryan Rollins",
+              "price": 1.73,
+              "point": 11.5
+            },
+            {
+              "name": "Under",
+              "description": "Ryan Rollins",
+              "price": 1.73,
+              "point": 11.5
+            },
+            {
+              "name": "Over",
+              "description": "Quentin Grimes",
+              "price": 1.73,
+              "point": 23.5
+            },
+            {
+              "name": "Under",
+              "description": "Quentin Grimes",
+              "price": 1.73,
+              "point": 23.5
+            },
+            {
+              "name": "Over",
+              "description": "Taurean Prince",
+              "price": 1.73,
+              "point": 9.5
+            },
+            {
+              "name": "Under",
+              "description": "Taurean Prince",
+              "price": 1.73,
+              "point": 9.5
+            }
+          ]
+        },
+        {
+          "key": "player_rebounds",
+          "last_update": "2025-04-03T03:51:16Z",
+          "outcomes": [
+            {
+              "name": "Over",
+              "description": "Adem Bona",
+              "price": 1.73,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Adem Bona",
+              "price": 1.73,
+              "point": 7.5
+            },
+            {
+              "name": "Over",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.73,
+              "point": 12.5
+            },
+            {
+              "name": "Under",
+              "description": "Giannis Antetokounmpo",
+              "price": 1.73,
+              "point": 12.5
+            },
+            {
+              "name": "Over",
+              "description": "Kyle Kuzma",
+              "price": 1.73,
+              "point": 7.5
+            },
+            {
+              "name": "Under",
+              "description": "Kyle Kuzma",
+              "price": 1.73,
+              "point": 7.5
             }
           ]
         }
