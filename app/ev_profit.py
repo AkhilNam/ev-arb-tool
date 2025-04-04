@@ -1,5 +1,4 @@
 import pandas as pd
-import pandas as pd
 
 def calculate_expected_profit(log_file="placed_bets.csv", stake=10):
     """

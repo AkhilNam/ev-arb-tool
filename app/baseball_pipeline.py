@@ -1,17 +1,17 @@
 import pandas as pd
 import json
 from datetime import datetime, timezone
-from app.odds_api import get_events_for_sport, get_player_props
+from app.odds_api import get_events_for_sport, get_player_props_mlb
 from app.parser import extract_props
 from app.ev_calc import implied_prob, no_vig_prob, calculate_ev
 
-SPORT_KEY = "basketball_nba"
+SPORT_KEY = "baseball_mlb"
 DEV_MODE = True  # Set to True to use the saved JSON file
 INCLUDE_LIVE = True  # Toggle this to True to include live bets
 CSV_FILE = "data/props_ev.csv"
-SAVED_JSON = "data/last_live_pull.json"
+SAVED_JSON = "data/last_live_pull_baseball.json"
 
-def run_ev_pipeline():
+def run_mlb_ev_pipeline():
     all_props = []
 
     # Load data either from the saved JSON or live fetch
@@ -35,7 +35,7 @@ def run_ev_pipeline():
 
         for event in events:  # ⛔ LIMIT for credits
             event_id = event["id"]
-            props_data = get_player_props(event_id, SPORT_KEY)
+            props_data = get_player_props_mlb(event_id, SPORT_KEY)
             if not props_data:
                 continue
             
@@ -70,6 +70,15 @@ def run_ev_pipeline():
     df["odds"] = df["odds"].astype(float)
     df["side"] = df["side"].str.lower()
     df["implied_prob"] = df["odds"].apply(implied_prob)
+
+    # Filter out extreme odds (too high or too low)
+    MIN_ODDS = 1.2
+    MAX_ODDS = 5.0
+    df = df[(df["odds"] >= MIN_ODDS) & (df["odds"] <= MAX_ODDS)]
+
+    print(f"✅ Filtered odds between {MIN_ODDS} and {MAX_ODDS}. Remaining rows: {len(df)}")
+
+
 
     if df.empty:
         print("No props found.")
@@ -112,7 +121,7 @@ def run_ev_pipeline():
     df["ev"] = df["odds"] * df["fair_prob"] - 1
 
     # Filter EV > 0.02 and flag value bets
-    ev_df = df[df["ev"] > 0.02].copy()
+    ev_df = df[df["ev"] > -2.00].copy()
     ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 VALUE" if x > 0.05 else "")
     ev_df = ev_df.sort_values(by="ev", ascending=False)
 
@@ -125,4 +134,4 @@ def run_ev_pipeline():
     return ev_df
 
 if __name__ == "__main__":
-    run_ev_pipeline()
+    run_mlb_ev_pipeline()

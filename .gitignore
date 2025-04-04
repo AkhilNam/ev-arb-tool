@@ -1,2 +1,51 @@
-.env
+# === Node.js / React ===
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.production
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+env/
+venv/
+ENV/
+.venv/
+Pipfile.lock
+
+# === VSCode and IDEs ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === OS junk ===
+.DS_Store
+Thumbs.db
+
+# === Log files ===
+*.log
+
+# === Data files (optional but recommended for your case) ===
+data/*.json
+data/*.csv
+
+# Save data locally but don’t commit (you probably don’t want test data in Git)
+
+# === Virtual environment (if you're using Poetry or pipenv) ===
+poetry.lock
+Pipfile
+
+# === Uvicorn reload file ===
+reload.*
+.env

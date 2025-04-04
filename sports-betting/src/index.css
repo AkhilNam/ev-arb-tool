@@ -1,0 +1,106 @@
+/* Define CSS Variables for consistency */
+:root {
+    --primary-color: #1e90ff;      /* Dodger Blue */
+    --secondary-color: #ff6347;    /* Tomato */
+    --background-color: #f5f5f5;   
+    --text-color: #333333;
+    --header-bg: #ffffff;
+    --footer-bg: #333333;
+    --footer-text: #ffffff;
+  }
+  
+  /* Global reset and base styles */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+  }
+  
+  /* Header Styling */
+  header {
+    background-color: var(--header-bg);
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+    color: var(--primary-color);
+  }
+  
+  header nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  header nav li {
+    margin-left: 20px;
+  }
+  
+  header nav a {
+    text-decoration: none;
+    color: var(--text-color);
+    transition: color 0.3s ease;
+  }
+  
+  header nav a:hover {
+    color: var(--primary-color);
+  }
+  
+  /* Main Content Area */
+  main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Card Component (use for your PropList/EVResults items) */
+  .card {
+    background: #ffffff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Example styling for PropList and EVResults containers */
+  .prop-list,
+  .ev-results {
+    margin-bottom: 20px;
+  }
+  
+  /* Footer Styling */
+  footer {
+    background-color: var(--footer-bg);
+    color: var(--footer-text);
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      text-align: center;
+    }
+    header nav ul {
+      flex-direction: column;
+      margin-top: 10px;
+    }
+    header nav li {
+      margin: 5px 0;
+    }
+  }
+  

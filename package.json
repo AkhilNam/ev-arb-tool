@@ -1,0 +1,28 @@
+{
+  "name": "ev-arb-tool",
+  "version": "1.0.0",
+  "description": "EV-Arb-Tool is a Python-based project that identifies and processes positive EV bets across multiple sportsbooks and DFS (Daily Fantasy Sports) platforms. The tool calculates fair probabilities, expected values (EV), and applies platform-specific bet placement logic (e.g., grouping bets into parlays when needed). All placed bets are logged for tracking and performance analysis.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhilNam/ev-arb-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhilNam/ev-arb-tool/issues"
+  },
+  "homepage": "https://github.com/AkhilNam/ev-arb-tool#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-scripts": "^5.0.1"
+  }
+}

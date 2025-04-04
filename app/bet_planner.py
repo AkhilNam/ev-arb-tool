@@ -2,8 +2,8 @@ import os
 import json
 import pandas as pd
 from datetime import datetime
-from ev_calc import implied_prob, no_vig_prob, calculate_ev, calculate_fair_prob
-from parser import extract_props
+from app.ev_calc import implied_prob, no_vig_prob, calculate_ev, calculate_fair_prob
+from app.parser import extract_props
 
 LOG_FILE = "placed_bets.csv"
 
@@ -124,7 +124,7 @@ def place_parlay(bets, parlay_books=["PrizePicks", "Underdog"]):
 # 3. Processing and Placing Bets
 # ---------------------------
 
-def process_and_place_bets(ev_df, min_ev=0.015):
+def process_and_place_bets(ev_df, min_ev=0.01):
     """
     Processes bets from the EV DataFrame and places them according to these rules:
       - Across all platforms, only one bet per unique player/market/line is allowed.

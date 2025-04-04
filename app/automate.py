@@ -1,6 +1,6 @@
-from ev_pipeline import run_ev_pipeline
-from bet_planner import process_and_place_bets
-from ev_dfs import run_dfs_ev_pipeline
+from app.ev_pipeline import run_ev_pipeline
+from app.bet_planner import process_and_place_bets
+from app.ev_dfs import run_dfs_ev_pipeline
 import json
 import pandas as pd
 all_props = []

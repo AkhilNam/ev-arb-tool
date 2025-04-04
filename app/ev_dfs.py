@@ -1,7 +1,7 @@
-from ev_calc import implied_prob, no_vig_prob, calculate_ev, calculate_fair_prob
+from app.ev_calc import implied_prob, no_vig_prob, calculate_ev, calculate_fair_prob
 import json
 import pandas as pd
-from parser import extract_props
+from app.parser import extract_props
 
 def run_dfs_ev_pipeline(df, ev_threshold=0):
     """
