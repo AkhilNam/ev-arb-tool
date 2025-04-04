@@ -1,31 +1,114 @@
 # EV-Arb-Tool
 
-EV-Arb-Tool is a Python-based project that identifies and processes positive EV bets across multiple sportsbooks and DFS (Daily Fantasy Sports) platforms. The tool calculates fair probabilities, expected values (EV), and applies platform-specific bet placement logic (e.g., grouping bets into parlays when needed). All placed bets are logged for tracking and performance analysis.
+EV-Arb-Tool is a full-stack Python + React project that identifies and processes positive EV (expected value) bets across multiple sportsbooks and DFS (Daily Fantasy Sports) platforms. The tool calculates fair probabilities, expected values (EV), and applies platform-specific bet placement logic. It now includes a web dashboard for easy viewing of props and EV data, with dedicated pages for general props, DFS lines, and MLB props.
+
+![EV Tool Screenshot](https://via.placeholder.com/1200x400.png?text=EV-Arb-Tool+Dashboard)
 
 ## Features
 
-- **EV Calculation Pipeline:**  
-  - Computes implied probabilities from odds.  
-  - Uses average odds from non-DFS books to determine fair probabilities (removing the bookmaker’s vig).  
-  - Calculates EV using custom logic (via `calculate_ev`).
+### 📊 EV Calculation Pipeline (Python Backend)
+- Computes implied probabilities from odds.
+- Uses average odds from non-DFS books to determine fair probabilities (removing the bookmaker’s vig).
+- Calculates EV using custom logic (via calculate_ev).
+- Filters out extreme odds for cleaner, more reliable EV bets.
+- Includes a dedicated MLB pipeline for baseball props.
 
-- **DFS-Specific Strategy:**  
-  - Separates DFS bets (e.g., Fliff, PrizePicks, Underdog) from other markets.  
-  - Automatically groups bets from PrizePicks and Underdog into parlays (since they do not support straight legs).  
-  - Places bets as "straight" on all other platforms.
+### 🏀 DFS-Specific Strategy
+- Separates DFS bets (e.g., Fliff, PrizePicks, Underdog) from sportsbook bets.
+- Groups bets from PrizePicks and Underdog into parlays (since they do not support straight bets).
+- Places bets as "straight" on all other platforms.
 
-- **Bet Selection & Duplicate Handling:**  
-  - Ensures that across all platforms, only one bet per unique player/market/line combination is placed. For example, if you take the over 24.5 points for a player, you will not take the under for the same line—even if the EV is the same, the bet with better fair odds is selected.  
-  - If multiple bets exist for the same line (from different platforms), the one with the highest EV (and, if tied, the highest fair probability) is chosen.
-  
-- **Logging:**  
-  - Logs every placed bet (with its bet type) to a CSV file (`placed_bets.csv`), including bets from normal sportsbooks that aren’t DFS.
-  - Prevents duplicate placements by checking if a bet for the same player/market/line has already been placed on the same day.
+### 🧩 Bet Selection & Duplicate Handling
+- Ensures only one bet per unique player/market/line combination is placed.
+- Prioritizes the bet with the highest EV (and higher fair probability in case of a tie).
+- Prevents duplicate placements by checking against already placed bets.
+
+### 🖥️ Web Dashboard (React Frontend)
+- View EV bets in a clean, responsive dashboard.
+- Dedicated pages:
+  - DFS Lines: DFS-specific EV plays.
+  - All Props: Complete prop list across sports.
+  - Baseball Props: MLB-only EV bets.
+- Auto-formatted American odds.
+- Color-coded EV % values (green for positive, red for negative).
+- Persistent header and footer for smooth navigation.
+
+### 🗂️ Logging
+- Logs every placed bet to placed_bets.csv.
+- Records sportsbooks and DFS platforms bets separately.
+- Tracks bets to avoid duplication.
 
 ## Installation
 
-1. **Clone the Repository:**
+### 1. Clone the Repository
 
-   ```bash
-   git clone <repository_url>
-   cd ev-arb-tool
+git clone <repository_url>
+cd ev-arb-tool
+
+### 2. Backend Setup (Python)
+
+- Create virtual environment:
+
+python -m venv venv
+source venv/bin/activate  # macOS/Linux
+venv\\Scripts\\activate     # Windows
+
+- Install dependencies:
+
+pip install -r requirements.txt
+
+- Run FastAPI server:
+
+uvicorn app.app:app --reload --port 8001
+
+Your backend will now be running at:
+http://127.0.0.1:8001
+
+### 3. Frontend Setup (React)
+
+- Navigate to the frontend directory (or project root, depending on structure):
+
+npm install
+npm start
+
+Your React app will run at:
+http://localhost:3000
+
+### 4. Access Web Dashboard
+
+- Visit:
+  - http://localhost:3000/ → DFS Lines
+  - http://localhost:3000/props → All Props
+  - http://localhost:3000/baseball → Baseball Props (MLB)
+
+## API Routes (FastAPI)
+
+| Endpoint           | Description                       |
+|-------------------|-----------------------------------|
+| /odds             | DFS lines EV bets                 |
+| /props            | All props across sports           |
+| /baseball         | MLB-only EV props                 |
+
+Access live API docs at:
+http://127.0.0.1:8001/docs
+
+## Roadmap 🚀
+
+- [ ] Auto-refresh frontend (Live odds updates)
+- [ ] CSV export from frontend dashboard
+- [ ] Add filtering by market and EV %
+- [ ] Add team logos for cleaner visuals
+- [ ] Deployment to web hosting (Netlify / Vercel / Render)
+
+## Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+MIT License
+
+## Contact
+
+Questions or suggestions? Open an issue or reach out!
+"""
