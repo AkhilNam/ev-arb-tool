@@ -36,9 +36,6 @@ Thumbs.db
 # === Log files ===
 *.log
 
-# === Data files (optional but recommended for your case) ===
-data/*.json
-data/*.csv
 
 # Save data locally but don’t commit (you probably don’t want test data in Git)
 

@@ -8,7 +8,7 @@ const Header = () => {
       <nav>
         <ul>
           <li><Link to="/">DFS Lines</Link></li>
-          <li><Link to="/props">All Props</Link></li>
+          <li><Link to="/props">NBA Props</Link></li>
           <li><Link to="/baseball">Baseball Props</Link></li>
         </ul>
       </nav>
