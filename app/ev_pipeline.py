@@ -6,7 +6,7 @@ from app.parser import extract_props
 from app.ev_calc import implied_prob, no_vig_prob, calculate_ev
 
 SPORT_KEY = "basketball_nba"
-DEV_MODE = True  # Set to True to use the saved JSON file
+DEV_MODE = False  # Set to True to use the saved JSON file
 INCLUDE_LIVE = False  # Toggle this to True to include live bets
 CSV_FILE = "data/props_ev.csv"
 SAVED_JSON = "data/last_live_pull.json"

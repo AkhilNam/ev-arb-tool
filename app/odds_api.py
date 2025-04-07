@@ -158,7 +158,7 @@ def game_props(event_id, sport_key):
     url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds"
 
     markets = [
-        "h2h", "spreads", "totals", "h2h_lay"
+        "h2h", "spreads", "totals",
     ]
 
     params = {

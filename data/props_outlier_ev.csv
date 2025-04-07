@@ -1,1 +1,1 @@
-bookmaker,market,player,side,line,odds,implied_prob,fair_prob_over,fair_prob_under,fair_prob,ev,flag
+bookmaker,market,team,side,line,odds,implied_prob,fair_prob_over,fair_prob_under,fair_prob,ev,flag

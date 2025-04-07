@@ -1,0 +1,16 @@
+bookmaker,market,team,side,line,odds,event_name,implied_prob,fair_prob,ev,flag
+Fliff,totals,Under,under,2.5,2.05,Arsenal vs Brentford,0.48780487804878053,0.5645161290322581,0.157258064516129,🔥 VALUE
+Fliff,totals,Under,under,2.5,2.25,Brighton and Hove Albion vs Leicester City,0.4444444444444444,0.5134575569358177,0.1552795031055898,🔥 VALUE
+Fliff,totals,Under,under,2.5,2.05,Leicester City vs Newcastle United,0.48780487804878053,0.5633802816901408,0.15492957746478853,🔥 VALUE
+Fliff,totals,Under,under,2.5,2.2,Brentford vs Brighton and Hove Albion,0.45454545454545453,0.5225409836065573,0.14959016393442615,🔥 VALUE
+Fliff,totals,Over,over,3.5,2.25,Manchester City vs Crystal Palace,0.4444444444444444,0.5030425963488844,0.13184584178498993,🔥 VALUE
+Fliff,totals,Under,under,2.5,2.2,Southampton vs Aston Villa,0.45454545454545453,0.5102040816326531,0.12244897959183687,🔥 VALUE
+Fliff,spreads,Tottenham Hotspur,tottenham hotspur,0.0,2.1,Wolverhampton Wanderers vs Tottenham Hotspur,0.47619047619047616,0.5116279069767442,0.07441860465116279,🔥 VALUE
+Fliff,spreads,Bournemouth,bournemouth,0.0,2.0,Crystal Palace vs Bournemouth,0.5,0.531615925058548,0.06323185011709609,🔥 VALUE
+Fliff,spreads,Brentford,brentford,0.0,1.91,Brentford vs Brighton and Hove Albion,0.5235602094240838,0.5537383177570093,0.05764018691588779,🔥 VALUE
+Fliff,spreads,Manchester United,manchester united,-1.0,2.2,Manchester United vs Wolverhampton Wanderers,0.45454545454545453,0.4799054373522458,0.05579196217494076,🔥 VALUE
+Fliff,totals,Over,over,3.5,2.15,Chelsea vs Ipswich Town,0.46511627906976744,0.48863636363636365,0.05056818181818179,🔥 VALUE
+Fliff,totals,Under,under,2.5,2.2,Wolverhampton Wanderers vs Tottenham Hotspur,0.45454545454545453,0.47191011235955055,0.038202247191011285,
+Fliff,spreads,Nottingham Forest,nottingham forest,0.0,1.95,Tottenham Hotspur vs Nottingham Forest,0.5128205128205129,0.5323741007194245,0.03812949640287777,
+Fliff,spreads,Fulham,fulham,0.0,1.95,Fulham vs Chelsea,0.5128205128205129,0.53125,0.035937499999999956,
+Fliff,spreads,Brentford,brentford,1.0,2.0,Arsenal vs Brentford,0.5,0.5162790697674419,0.032558139534883734,
