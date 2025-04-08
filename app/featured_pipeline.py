@@ -5,7 +5,7 @@ from app.odds_api import get_events_for_sport, game_props
 from app.parser import extract_game_props
 from app.ev_calc import implied_prob
 
-SPORT_KEYS = ["basketball_nba", "americanfootball_nfl", "soccer_epl"]  # Add sports here
+SPORT_KEYS = ["basketball_nba", "americanfootball_nfl", "soccer_epl", "soccer_uefa_champs_league"]  # Add sports here
 DEV_MODE = False  # Toggle between live and dev mode
 INCLUDE_LIVE = True  # Include live games or not
 
@@ -164,9 +164,9 @@ def process_binary_market(df_market, id_col):
 
 
 if __name__ == "__main__":
-    run_ev_pipeline()
-    '''
-    This is for getting FLIFF odds only 
+    #run_ev_pipeline()
+    
+    #This is for getting FLIFF odds only 
     df = run_ev_pipeline()
     if not df.empty and (df["bookmaker"].str.lower() == "fliff").any():
         fliff_df = df[df["bookmaker"].str.lower() == "fliff"]
@@ -175,4 +175,4 @@ if __name__ == "__main__":
         fliff_df.to_csv("data/props_outlier_ev_fliff.csv", index=False)
     else:
         print("No Fliff value props found.")
-    '''
+    
