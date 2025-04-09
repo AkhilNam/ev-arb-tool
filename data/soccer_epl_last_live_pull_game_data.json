@@ -1733,7 +1733,7 @@
     "team": "Brighton and Hove Albion",
     "side": "Brighton and Hove Albion",
     "line": -1.5,
-    "odds": 1.71,
+    "odds": 1.74,
     "event_name": "Brighton and Hove Albion vs Leicester City"
   },
   {
@@ -3065,7 +3065,7 @@
     "team": "Arsenal",
     "side": "Arsenal",
     "line": null,
-    "odds": 1.51,
+    "odds": 1.52,
     "event_name": "Arsenal vs Brentford"
   },
   {
@@ -3074,7 +3074,7 @@
     "team": "Brentford",
     "side": "Brentford",
     "line": null,
-    "odds": 5.4,
+    "odds": 5.5,
     "event_name": "Arsenal vs Brentford"
   },
   {
@@ -3083,7 +3083,7 @@
     "team": "Draw",
     "side": "Draw",
     "line": null,
-    "odds": 4.3,
+    "odds": 4.2,
     "event_name": "Arsenal vs Brentford"
   },
   {
@@ -3092,7 +3092,7 @@
     "team": "Arsenal",
     "side": "Arsenal",
     "line": -1.5,
-    "odds": 2.35,
+    "odds": 2.36,
     "event_name": "Arsenal vs Brentford"
   },
   {
@@ -3155,7 +3155,7 @@
     "team": "Arsenal",
     "side": "Arsenal",
     "line": null,
-    "odds": 1.45,
+    "odds": 1.47,
     "event_name": "Arsenal vs Brentford"
   },
   {
@@ -3380,7 +3380,7 @@
     "team": "Arsenal",
     "side": "Arsenal",
     "line": null,
-    "odds": 1.53,
+    "odds": 1.54,
     "event_name": "Arsenal vs Brentford"
   },
   {
@@ -3497,7 +3497,7 @@
     "team": "Arsenal",
     "side": "Arsenal",
     "line": null,
-    "odds": 1.53,
+    "odds": 1.54,
     "event_name": "Arsenal vs Brentford"
   },
   {
@@ -3758,7 +3758,7 @@
     "team": "Ipswich Town",
     "side": "Ipswich Town",
     "line": null,
-    "odds": 8.0,
+    "odds": 8.5,
     "event_name": "Chelsea vs Ipswich Town"
   },
   {
@@ -3902,7 +3902,7 @@
     "team": "Ipswich Town",
     "side": "Ipswich Town",
     "line": 1.5,
-    "odds": 1.87,
+    "odds": 1.83,
     "event_name": "Chelsea vs Ipswich Town"
   },
   {
@@ -4442,7 +4442,7 @@
     "team": "Chelsea",
     "side": "Chelsea",
     "line": null,
-    "odds": 1.31,
+    "odds": 1.3,
     "event_name": "Chelsea vs Ipswich Town"
   },
   {
@@ -4469,7 +4469,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": null,
-    "odds": 1.31,
+    "odds": 1.3,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4478,7 +4478,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": null,
-    "odds": 7.9,
+    "odds": 8.0,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4496,7 +4496,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": -1.5,
-    "odds": 1.85,
+    "odds": 1.83,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4505,7 +4505,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": 1.5,
-    "odds": 1.85,
+    "odds": 1.87,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4532,7 +4532,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": null,
-    "odds": 1.33,
+    "odds": 1.31,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4541,7 +4541,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": null,
-    "odds": 8.0,
+    "odds": 8.5,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4676,7 +4676,7 @@
     "team": "Draw",
     "side": "Draw",
     "line": null,
-    "odds": 5.4,
+    "odds": 5.45,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4685,7 +4685,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": -1.5,
-    "odds": 1.8,
+    "odds": 1.77,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4694,7 +4694,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": 1.5,
-    "odds": 1.83,
+    "odds": 1.87,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4721,7 +4721,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": null,
-    "odds": 1.28,
+    "odds": 1.27,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4730,7 +4730,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": null,
-    "odds": 10.0,
+    "odds": 10.5,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4739,7 +4739,7 @@
     "team": "Draw",
     "side": "Draw",
     "line": null,
-    "odds": 5.75,
+    "odds": 6.0,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4748,7 +4748,7 @@
     "team": "Over",
     "side": "Over",
     "line": 3.5,
-    "odds": 2.33,
+    "odds": 2.28,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4757,7 +4757,7 @@
     "team": "Under",
     "side": "Under",
     "line": 3.5,
-    "odds": 1.6,
+    "odds": 1.63,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4766,7 +4766,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": null,
-    "odds": 1.28,
+    "odds": 1.27,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4775,7 +4775,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": null,
-    "odds": 10.0,
+    "odds": 10.5,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4784,7 +4784,7 @@
     "team": "Draw",
     "side": "Draw",
     "line": null,
-    "odds": 5.75,
+    "odds": 6.0,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4793,7 +4793,7 @@
     "team": "Over",
     "side": "Over",
     "line": 3.5,
-    "odds": 2.33,
+    "odds": 2.28,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4802,7 +4802,7 @@
     "team": "Under",
     "side": "Under",
     "line": 3.5,
-    "odds": 1.6,
+    "odds": 1.63,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4811,7 +4811,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": null,
-    "odds": 1.28,
+    "odds": 1.27,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4820,7 +4820,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": null,
-    "odds": 10.0,
+    "odds": 10.5,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4829,7 +4829,7 @@
     "team": "Draw",
     "side": "Draw",
     "line": null,
-    "odds": 5.75,
+    "odds": 6.0,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4838,7 +4838,7 @@
     "team": "Over",
     "side": "Over",
     "line": 3.5,
-    "odds": 2.33,
+    "odds": 2.28,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4847,7 +4847,7 @@
     "team": "Under",
     "side": "Under",
     "line": 3.5,
-    "odds": 1.6,
+    "odds": 1.63,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4856,7 +4856,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": null,
-    "odds": 1.33,
+    "odds": 1.32,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4865,7 +4865,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": null,
-    "odds": 8.0,
+    "odds": 8.25,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4883,7 +4883,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": -1.5,
-    "odds": 1.91,
+    "odds": 1.89,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4892,7 +4892,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": 1.5,
-    "odds": 1.91,
+    "odds": 1.93,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4946,7 +4946,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": null,
-    "odds": 1.33,
+    "odds": 1.32,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4955,7 +4955,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": null,
-    "odds": 8.0,
+    "odds": 8.25,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4973,7 +4973,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": -1.5,
-    "odds": 1.91,
+    "odds": 1.89,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -4982,7 +4982,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": 1.5,
-    "odds": 1.91,
+    "odds": 1.93,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -5154,6 +5154,69 @@
     "side": "Draw",
     "line": null,
     "odds": 5.5,
+    "event_name": "Liverpool vs West Ham United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "h2h",
+    "team": "Liverpool",
+    "side": "Liverpool",
+    "line": null,
+    "odds": 1.32,
+    "event_name": "Liverpool vs West Ham United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "h2h",
+    "team": "West Ham United",
+    "side": "West Ham United",
+    "line": null,
+    "odds": 9.25,
+    "event_name": "Liverpool vs West Ham United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "h2h",
+    "team": "Draw",
+    "side": "Draw",
+    "line": null,
+    "odds": 5.95,
+    "event_name": "Liverpool vs West Ham United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "spreads",
+    "team": "Liverpool",
+    "side": "Liverpool",
+    "line": 1.5,
+    "odds": 1.9,
+    "event_name": "Liverpool vs West Ham United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "spreads",
+    "team": "West Ham United",
+    "side": "West Ham United",
+    "line": -1.5,
+    "odds": 1.92,
+    "event_name": "Liverpool vs West Ham United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 3.0,
+    "odds": 1.85,
+    "event_name": "Liverpool vs West Ham United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 3.0,
+    "odds": 1.98,
     "event_name": "Liverpool vs West Ham United"
   },
   {
@@ -5387,7 +5450,7 @@
     "team": "Wolverhampton Wanderers",
     "side": "Wolverhampton Wanderers",
     "line": 0.0,
-    "odds": 1.61,
+    "odds": 1.62,
     "event_name": "Wolverhampton Wanderers vs Tottenham Hotspur"
   },
   {
@@ -6543,6 +6606,69 @@
     "event_name": "Newcastle United vs Manchester United"
   },
   {
+    "bookmaker": "BetAnySports",
+    "market": "h2h",
+    "team": "Manchester United",
+    "side": "Manchester United",
+    "line": null,
+    "odds": 4.58,
+    "event_name": "Newcastle United vs Manchester United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "h2h",
+    "team": "Newcastle United",
+    "side": "Newcastle United",
+    "line": null,
+    "odds": 1.73,
+    "event_name": "Newcastle United vs Manchester United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "h2h",
+    "team": "Draw",
+    "side": "Draw",
+    "line": null,
+    "odds": 4.18,
+    "event_name": "Newcastle United vs Manchester United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "spreads",
+    "team": "Manchester United",
+    "side": "Manchester United",
+    "line": -0.75,
+    "odds": 1.91,
+    "event_name": "Newcastle United vs Manchester United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "spreads",
+    "team": "Newcastle United",
+    "side": "Newcastle United",
+    "line": 0.75,
+    "odds": 1.91,
+    "event_name": "Newcastle United vs Manchester United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 2.75,
+    "odds": 1.82,
+    "event_name": "Newcastle United vs Manchester United"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 2.75,
+    "odds": 2.02,
+    "event_name": "Newcastle United vs Manchester United"
+  },
+  {
     "bookmaker": "FanDuel",
     "market": "h2h",
     "team": "Bournemouth",
@@ -6819,24 +6945,6 @@
     "side": "Draw",
     "line": null,
     "odds": 3.5,
-    "event_name": "Bournemouth vs Fulham"
-  },
-  {
-    "bookmaker": "BetMGM",
-    "market": "totals",
-    "team": "Over",
-    "side": "Over",
-    "line": 2.5,
-    "odds": 1.69,
-    "event_name": "Bournemouth vs Fulham"
-  },
-  {
-    "bookmaker": "BetMGM",
-    "market": "totals",
-    "team": "Under",
-    "side": "Under",
-    "line": 2.5,
-    "odds": 2.05,
     "event_name": "Bournemouth vs Fulham"
   },
   {
@@ -7367,7 +7475,7 @@
     "team": "Draw",
     "side": "Draw",
     "line": null,
-    "odds": 3.65,
+    "odds": 3.6,
     "event_name": "Newcastle United vs Crystal Palace"
   },
   {
@@ -8384,7 +8492,7 @@
     "team": "Brentford",
     "side": "Brentford",
     "line": null,
-    "odds": 2.35,
+    "odds": 2.4,
     "event_name": "Brentford vs Brighton and Hove Albion"
   },
   {
@@ -8420,7 +8528,7 @@
     "team": "Brighton and Hove Albion",
     "side": "Brighton and Hove Albion",
     "line": 0.0,
-    "odds": 1.91,
+    "odds": 1.87,
     "event_name": "Brentford vs Brighton and Hove Albion"
   },
   {
@@ -8798,7 +8906,7 @@
     "team": "Everton",
     "side": "Everton",
     "line": null,
-    "odds": 3.5,
+    "odds": 3.6,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -8807,7 +8915,7 @@
     "team": "Manchester City",
     "side": "Manchester City",
     "line": null,
-    "odds": 1.95,
+    "odds": 1.91,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -8843,7 +8951,7 @@
     "team": "Everton",
     "side": "Everton",
     "line": null,
-    "odds": 3.55,
+    "odds": 3.6,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -8852,7 +8960,7 @@
     "team": "Manchester City",
     "side": "Manchester City",
     "line": null,
-    "odds": 1.91,
+    "odds": 1.87,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -8870,7 +8978,7 @@
     "team": "Everton",
     "side": "Everton",
     "line": 0.5,
-    "odds": 1.77,
+    "odds": 1.83,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -8879,7 +8987,7 @@
     "team": "Manchester City",
     "side": "Manchester City",
     "line": -0.5,
-    "odds": 1.87,
+    "odds": 1.8,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -8988,6 +9096,24 @@
     "side": "Draw",
     "line": null,
     "odds": 3.6,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 2.5,
+    "odds": 1.74,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 2.5,
+    "odds": 1.95,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -9109,6 +9235,33 @@
   },
   {
     "bookmaker": "BetRivers",
+    "market": "h2h",
+    "team": "Everton",
+    "side": "Everton",
+    "line": null,
+    "odds": 4.1,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "h2h",
+    "team": "Manchester City",
+    "side": "Manchester City",
+    "line": null,
+    "odds": 1.83,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "h2h",
+    "team": "Draw",
+    "side": "Draw",
+    "line": null,
+    "odds": 3.8,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "BetRivers",
     "market": "totals",
     "team": "Over",
     "side": "Over",
@@ -9122,7 +9275,34 @@
     "team": "Under",
     "side": "Under",
     "line": 2.5,
-    "odds": 2.06,
+    "odds": 2.07,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "h2h",
+    "team": "Everton",
+    "side": "Everton",
+    "line": null,
+    "odds": 4.1,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "h2h",
+    "team": "Manchester City",
+    "side": "Manchester City",
+    "line": null,
+    "odds": 1.83,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "h2h",
+    "team": "Draw",
+    "side": "Draw",
+    "line": null,
+    "odds": 3.8,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -9140,7 +9320,34 @@
     "team": "Under",
     "side": "Under",
     "line": 2.5,
-    "odds": 2.06,
+    "odds": 2.07,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "h2h",
+    "team": "Everton",
+    "side": "Everton",
+    "line": null,
+    "odds": 4.1,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "h2h",
+    "team": "Manchester City",
+    "side": "Manchester City",
+    "line": null,
+    "odds": 1.83,
+    "event_name": "Everton vs Manchester City"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "h2h",
+    "team": "Draw",
+    "side": "Draw",
+    "line": null,
+    "odds": 3.8,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -9158,7 +9365,7 @@
     "team": "Under",
     "side": "Under",
     "line": 2.5,
-    "odds": 2.06,
+    "odds": 2.07,
     "event_name": "Everton vs Manchester City"
   },
   {
@@ -9419,7 +9626,7 @@
     "team": "Southampton",
     "side": "Southampton",
     "line": null,
-    "odds": 5.4,
+    "odds": 5.75,
     "event_name": "West Ham United vs Southampton"
   },
   {
@@ -9428,7 +9635,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": null,
-    "odds": 1.59,
+    "odds": 1.56,
     "event_name": "West Ham United vs Southampton"
   },
   {
@@ -9446,7 +9653,7 @@
     "team": "Southampton",
     "side": "Southampton",
     "line": 1.0,
-    "odds": 1.85,
+    "odds": 1.91,
     "event_name": "West Ham United vs Southampton"
   },
   {
@@ -9455,7 +9662,7 @@
     "team": "West Ham United",
     "side": "West Ham United",
     "line": -1.0,
-    "odds": 1.98,
+    "odds": 1.91,
     "event_name": "West Ham United vs Southampton"
   },
   {
@@ -10895,7 +11102,7 @@
     "team": "Draw",
     "side": "Draw",
     "line": null,
-    "odds": 3.3,
+    "odds": 3.4,
     "event_name": "Fulham vs Chelsea"
   },
   {
@@ -11129,7 +11336,7 @@
     "team": "Chelsea",
     "side": "Chelsea",
     "line": null,
-    "odds": 2.35,
+    "odds": 2.3,
     "event_name": "Fulham vs Chelsea"
   },
   {
@@ -11682,12 +11889,30 @@
     "event_name": "Manchester United vs Wolverhampton Wanderers"
   },
   {
+    "bookmaker": "BetMGM",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 2.5,
+    "odds": 1.83,
+    "event_name": "Manchester United vs Wolverhampton Wanderers"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 2.5,
+    "odds": 1.87,
+    "event_name": "Manchester United vs Wolverhampton Wanderers"
+  },
+  {
     "bookmaker": "MyBookie.ag",
     "market": "h2h",
     "team": "Leicester City",
     "side": "Leicester City",
     "line": null,
-    "odds": 9.8,
+    "odds": 9.5,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11696,7 +11921,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": null,
-    "odds": 1.24,
+    "odds": 1.25,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11705,7 +11930,7 @@
     "team": "Draw",
     "side": "Draw",
     "line": null,
-    "odds": 5.8,
+    "odds": 5.7,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11714,7 +11939,7 @@
     "team": "Leicester City",
     "side": "Leicester City",
     "line": 1.5,
-    "odds": 2.05,
+    "odds": 2.03,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11723,7 +11948,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": -1.5,
-    "odds": 1.68,
+    "odds": 1.7,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11750,7 +11975,7 @@
     "team": "Leicester City",
     "side": "Leicester City",
     "line": null,
-    "odds": 10.55,
+    "odds": 10.45,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11768,7 +11993,7 @@
     "team": "Draw",
     "side": "Draw",
     "line": null,
-    "odds": 5.9,
+    "odds": 5.85,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11776,8 +12001,8 @@
     "market": "spreads",
     "team": "Leicester City",
     "side": "Leicester City",
-    "line": 2.0,
-    "odds": 1.65,
+    "line": 1.5,
+    "odds": 2.0,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11785,8 +12010,8 @@
     "market": "spreads",
     "team": "Liverpool",
     "side": "Liverpool",
-    "line": -2.0,
-    "odds": 2.05,
+    "line": -1.5,
+    "odds": 1.65,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11912,7 +12137,7 @@
     "team": "Leicester City",
     "side": "Leicester City",
     "line": null,
-    "odds": 10.0,
+    "odds": 9.75,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11921,7 +12146,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": null,
-    "odds": 1.26,
+    "odds": 1.27,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11939,7 +12164,7 @@
     "team": "Leicester City",
     "side": "Leicester City",
     "line": 1.75,
-    "odds": 1.91,
+    "odds": 1.89,
     "event_name": "Leicester City vs Liverpool"
   },
   {
@@ -11948,7 +12173,7 @@
     "team": "Liverpool",
     "side": "Liverpool",
     "line": -1.75,
-    "odds": 1.91,
+    "odds": 1.93,
     "event_name": "Leicester City vs Liverpool"
   },
   {

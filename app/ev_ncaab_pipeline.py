@@ -113,7 +113,7 @@ def run_ev_pipeline():
 
     # Filter EV > 0.02 and flag value bets
     ev_df = df[df["ev"] > 0.00].copy()
-    ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 VALUE" if x > 0.05 else "")
+    ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 WAAALUE" if x > 0.05 else "")
     ev_df = ev_df.sort_values(by="ev", ascending=False)
 
     # Output results

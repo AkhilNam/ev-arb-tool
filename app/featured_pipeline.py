@@ -157,7 +157,7 @@ def process_binary_market(df_market, id_col):
     df_market["ev"] = df_market["odds"] * df_market["fair_prob"] - 1
 
     ev_df = df_market[df_market["ev"] > 0.02].copy()
-    ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 VALUE" if x > 0.05 else "")
+    ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 WALUUUUE" if x > 0.05 else "")
     ev_df = ev_df.sort_values(by="ev", ascending=False)
 
     return ev_df
