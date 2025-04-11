@@ -153,3 +153,25 @@ def get_player_props_mlb(event_id, sport_key):
         return None
 
     return res.json()
+
+def game_props(event_id, sport_key):
+    url = f"https://api.the-odds-api.com/v4/sports/{sport_key}/events/{event_id}/odds"
+
+    markets = [
+        "h2h", "spreads", "totals",
+    ]
+
+    params = {
+        "apiKey": API_KEY,
+        "regions": "us,us2,us_dfs",
+        "markets": ",".join(markets),
+        "oddsFormat": "decimal"
+    }
+
+    res = requests.get(url, params=params)
+    if res.status_code != 200:
+        print(f"❌ Failed to fetch odds: {res.status_code}")
+        print(res.text)
+        return None
+
+    return res.json()

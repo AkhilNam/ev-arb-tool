@@ -30,3 +30,32 @@ def extract_props(bookmakers_data):
                 props.append(prop)
     
     return props
+
+def extract_game_props(bookmakers_data, event_name=None):
+    props = []
+
+    for bookmaker in bookmakers_data:
+        bookmaker_name = bookmaker.get("title", "")
+
+        if "markets" not in bookmaker:
+            continue
+
+        for market in bookmaker["markets"]:
+            if "outcomes" not in market:
+                continue
+
+            for outcome in market["outcomes"]:
+                identifier = outcome.get("name", "unknown")
+
+                prop = {
+                    "bookmaker": bookmaker_name,
+                    "market": market.get("key", "unknown"),
+                    "team": identifier,
+                    "side": outcome.get("name", "unknown"),
+                    "line": outcome.get("point", None),
+                    "odds": outcome.get("price", None),
+                    "event_name": event_name,  # ✅ Add this!
+                }
+                props.append(prop)
+
+    return props

@@ -1,0 +1,2090 @@
+[
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.32,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.6,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -8.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 8.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.32,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.6,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -8.0,
+    "odds": 1.94,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 8.0,
+    "odds": 1.94,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.0,
+    "odds": 1.93,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.0,
+    "odds": 1.93,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.35,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.3,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -8.0,
+    "odds": 1.95,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 8.0,
+    "odds": 1.87,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.34,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.35,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -8.0,
+    "odds": 1.93,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 8.0,
+    "odds": 1.89,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.35,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.24,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -7.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 7.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fliff",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.32,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fliff",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.2,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fliff",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -7.5,
+    "odds": 1.87,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fliff",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 7.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fliff",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Fliff",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Wind Creek",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.35,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Wind Creek",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.2,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetUS",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -8.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetUS",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 8.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetUS",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetUS",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.33,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.4,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -7.5,
+    "odds": 1.87,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 7.5,
+    "odds": 1.95,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.36,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.3,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -7.5,
+    "odds": 1.95,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 7.5,
+    "odds": 1.87,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.33,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.25,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -7.0,
+    "odds": 1.87,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 7.0,
+    "odds": 1.95,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.34,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.4,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -8.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 8.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.3,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.65,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -7.5,
+    "odds": 1.89,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 7.5,
+    "odds": 1.93,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.93,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.89,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.33,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.4,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -8.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 8.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.0,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": 7.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": -7.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.91,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.34,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.4,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -7.5,
+    "odds": 1.92,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 7.5,
+    "odds": 1.89,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.92,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.89,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.34,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.35,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -7.5,
+    "odds": 1.92,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 7.5,
+    "odds": 1.89,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.92,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.89,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "h2h",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": null,
+    "odds": 1.34,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "h2h",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": null,
+    "odds": 3.4,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "spreads",
+    "team": "Detroit Pistons",
+    "side": "Detroit Pistons",
+    "line": -7.5,
+    "odds": 1.92,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "spreads",
+    "team": "Sacramento Kings",
+    "side": "Sacramento Kings",
+    "line": 7.5,
+    "odds": 1.89,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 230.5,
+    "odds": 1.92,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 230.5,
+    "odds": 1.89,
+    "event_name": "Detroit Pistons vs Sacramento Kings"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.1,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.75,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.5,
+    "odds": 1.89,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.5,
+    "odds": 1.93,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "DraftKings",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.1,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.5,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Fanatics",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.09,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.64,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.09,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 8.0,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -15.0,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 15.0,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetOnline.ag",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.09,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 8.0,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -15.0,
+    "odds": 1.94,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 15.0,
+    "odds": 1.94,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.93,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "LowVig.ag",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.93,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetUS",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetUS",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetUS",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetUS",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Wind Creek",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.09,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Wind Creek",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.5,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.09,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.5,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.87,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetMGM",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.95,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.1,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.0,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.87,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "ESPN BET",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.95,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.1,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.5,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Hard Rock Bet",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.09,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.5,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 214.0,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bovada",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 214.0,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.1,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.6,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.0,
+    "odds": 1.89,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.0,
+    "odds": 1.93,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.1,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.5,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Caesars",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 213.5,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": 15.0,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": -15.0,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 214.0,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetAnySports",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 214.0,
+    "odds": 1.91,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.11,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.0,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.0,
+    "odds": 1.88,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.0,
+    "odds": 1.93,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 214.5,
+    "odds": 1.92,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "BetRivers",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 214.5,
+    "odds": 1.89,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.11,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 6.75,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.0,
+    "odds": 1.88,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.0,
+    "odds": 1.93,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 214.5,
+    "odds": 1.92,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "betPARX",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 214.5,
+    "odds": 1.89,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "h2h",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": null,
+    "odds": 1.11,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "h2h",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": null,
+    "odds": 7.0,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "spreads",
+    "team": "Miami Heat",
+    "side": "Miami Heat",
+    "line": -14.0,
+    "odds": 1.88,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "spreads",
+    "team": "Philadelphia 76ers",
+    "side": "Philadelphia 76ers",
+    "line": 14.0,
+    "odds": 1.93,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 214.5,
+    "odds": 1.92,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "Bally Bet",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 214.5,
+    "odds": 1.89,
+    "event_name": "Miami Heat vs Philadelphia 76ers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Atlanta Hawks",
+    "side": "Atlanta Hawks",
+    "line": null,
+    "odds": 2.66,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Orlando Magic",
+    "side": "Orlando Magic",
+    "line": null,
+    "odds": 1.51,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Atlanta Hawks",
+    "side": "Atlanta Hawks",
+    "line": 4.5,
+    "odds": 1.91,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Orlando Magic",
+    "side": "Orlando Magic",
+    "line": -4.5,
+    "odds": 1.91,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 225.0,
+    "odds": 1.91,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 225.0,
+    "odds": 1.91,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Atlanta Hawks",
+    "side": "Atlanta Hawks",
+    "line": null,
+    "odds": 2.55,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Orlando Magic",
+    "side": "Orlando Magic",
+    "line": null,
+    "odds": 1.52,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "Atlanta Hawks",
+    "side": "Atlanta Hawks",
+    "line": 4.5,
+    "odds": 1.91,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "Orlando Magic",
+    "side": "Orlando Magic",
+    "line": -4.5,
+    "odds": 1.91,
+    "event_name": "Orlando Magic vs Atlanta Hawks"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Boston Celtics",
+    "side": "Boston Celtics",
+    "line": null,
+    "odds": 1.65,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "New York Knicks",
+    "side": "New York Knicks",
+    "line": null,
+    "odds": 2.3,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Boston Celtics",
+    "side": "Boston Celtics",
+    "line": -3.0,
+    "odds": 1.91,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "New York Knicks",
+    "side": "New York Knicks",
+    "line": 3.0,
+    "odds": 1.91,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 223.5,
+    "odds": 1.91,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 223.5,
+    "odds": 1.91,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Boston Celtics",
+    "side": "Boston Celtics",
+    "line": null,
+    "odds": 1.66,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "New York Knicks",
+    "side": "New York Knicks",
+    "line": null,
+    "odds": 2.24,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "Boston Celtics",
+    "side": "Boston Celtics",
+    "line": -3.0,
+    "odds": 1.91,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "New York Knicks",
+    "side": "New York Knicks",
+    "line": 3.0,
+    "odds": 1.91,
+    "event_name": "New York Knicks vs Boston Celtics"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Los Angeles Lakers",
+    "side": "Los Angeles Lakers",
+    "line": null,
+    "odds": 3.9,
+    "event_name": "Oklahoma City Thunder vs Los Angeles Lakers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Oklahoma City Thunder",
+    "side": "Oklahoma City Thunder",
+    "line": null,
+    "odds": 1.28,
+    "event_name": "Oklahoma City Thunder vs Los Angeles Lakers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Los Angeles Lakers",
+    "side": "Los Angeles Lakers",
+    "line": 8.5,
+    "odds": 1.93,
+    "event_name": "Oklahoma City Thunder vs Los Angeles Lakers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Oklahoma City Thunder",
+    "side": "Oklahoma City Thunder",
+    "line": -8.5,
+    "odds": 1.89,
+    "event_name": "Oklahoma City Thunder vs Los Angeles Lakers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 229.5,
+    "odds": 1.91,
+    "event_name": "Oklahoma City Thunder vs Los Angeles Lakers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 229.5,
+    "odds": 1.91,
+    "event_name": "Oklahoma City Thunder vs Los Angeles Lakers"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Los Angeles Lakers",
+    "side": "Los Angeles Lakers",
+    "line": null,
+    "odds": 3.73,
+    "event_name": "Oklahoma City Thunder vs Los Angeles Lakers"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Oklahoma City Thunder",
+    "side": "Oklahoma City Thunder",
+    "line": null,
+    "odds": 1.28,
+    "event_name": "Oklahoma City Thunder vs Los Angeles Lakers"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Golden State Warriors",
+    "side": "Golden State Warriors",
+    "line": null,
+    "odds": 1.41,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "h2h",
+    "team": "Phoenix Suns",
+    "side": "Phoenix Suns",
+    "line": null,
+    "odds": 3.0,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Golden State Warriors",
+    "side": "Golden State Warriors",
+    "line": -6.0,
+    "odds": 1.89,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "spreads",
+    "team": "Phoenix Suns",
+    "side": "Phoenix Suns",
+    "line": 6.0,
+    "odds": 1.93,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Over",
+    "side": "Over",
+    "line": 228.5,
+    "odds": 1.91,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  },
+  {
+    "bookmaker": "FanDuel",
+    "market": "totals",
+    "team": "Under",
+    "side": "Under",
+    "line": 228.5,
+    "odds": 1.91,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Golden State Warriors",
+    "side": "Golden State Warriors",
+    "line": null,
+    "odds": 1.39,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "h2h",
+    "team": "Phoenix Suns",
+    "side": "Phoenix Suns",
+    "line": null,
+    "odds": 3.04,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "Golden State Warriors",
+    "side": "Golden State Warriors",
+    "line": -6.0,
+    "odds": 1.91,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  },
+  {
+    "bookmaker": "MyBookie.ag",
+    "market": "spreads",
+    "team": "Phoenix Suns",
+    "side": "Phoenix Suns",
+    "line": 6.0,
+    "odds": 1.91,
+    "event_name": "Phoenix Suns vs Golden State Warriors"
+  }
+]
