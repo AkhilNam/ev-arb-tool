@@ -6,7 +6,7 @@ from app.parser import extract_props
 from app.ev_calc import implied_prob, no_vig_prob, calculate_ev
 
 SPORT_KEY = "basketball_nba"
-DEV_MODE = False  # Set to True to use the saved JSON file
+DEV_MODE = True  # Set to True to use the saved JSON file
 INCLUDE_LIVE = True  # Toggle this to True to include live bets
 CSV_FILE = "data/props_ev.csv"
 SAVED_JSON = "data/last_live_pull.json"
@@ -113,7 +113,7 @@ def run_ev_pipeline():
 
     # Filter EV > 0.02 and flag value bets
     ev_df = df[df["ev"] > 0.02].copy()
-    ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 WAAALUE" if x > 0.05 else "")
+    ev_df["flag"] = ev_df["ev"].apply(lambda x: "🔥 VALUE" if x > 0.05 else "")
     ev_df = ev_df.sort_values(by="ev", ascending=False)
 
     # Output results
