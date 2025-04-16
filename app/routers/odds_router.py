@@ -13,7 +13,7 @@ def decimal_to_american(decimal_odds):
         return f"{int(-100 / (decimal_odds - 1))}"
 
 @router.get("/")
-def get_odds():
+async def get_odds():
     SAVED_JSON = "data/last_live_pull.json"
 
     try:

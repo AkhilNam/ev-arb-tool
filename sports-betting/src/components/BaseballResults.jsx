@@ -4,9 +4,9 @@ import { useTheme } from '../context/ThemeContext';
 import { Button } from './ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 import { cn } from '../lib/utils';
-import { fetchOdds } from '../api';
+import { fetchBaseballOdds } from '../api';
 
-const EVResults = () => {
+const BaseballResults = () => {
   const { theme } = useTheme();
   const [odds, setOdds] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -21,11 +21,11 @@ const EVResults = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const data = await fetchOdds();
+        const data = await fetchBaseballOdds();
         setOdds(data);
         setLoading(false);
       } catch (err) {
-        setError('Failed to fetch odds data');
+        setError('Failed to fetch baseball odds data');
         setLoading(false);
       }
     };
@@ -90,8 +90,8 @@ const EVResults = () => {
     <div className="container mx-auto px-4 py-8">
       <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-6">
         <div>
-          <h1 className="text-2xl font-bold tracking-tight">EV Betting Opportunities</h1>
-          <p className="text-muted-foreground">Real-time expected value calculations</p>
+          <h1 className="text-2xl font-bold tracking-tight">Baseball EV Opportunities</h1>
+          <p className="text-muted-foreground">Real-time baseball betting opportunities</p>
         </div>
         <div className="flex gap-4 w-full md:w-auto">
           <div className="relative flex-1 md:flex-none">
@@ -256,4 +256,4 @@ const EVResults = () => {
   );
 };
 
-export default EVResults;
+export default BaseballResults; 

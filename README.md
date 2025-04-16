@@ -8,7 +8,7 @@ EV-Arb-Tool is a full-stack Python + React project that identifies and processes
 
 ### 📊 EV Calculation Pipeline (Python Backend)
 - Computes implied probabilities from odds.
-- Uses average odds from non-DFS books to determine fair probabilities (removing the bookmaker’s vig).
+- Uses average odds from non-DFS books to determine fair probabilities (removing the bookmaker's vig).
 - Calculates EV using custom logic (via calculate_ev).
 - Filters out extreme odds for cleaner, more reliable EV bets.
 - Includes a dedicated MLB pipeline for baseball props.
@@ -17,6 +17,8 @@ EV-Arb-Tool is a full-stack Python + React project that identifies and processes
 - Separates DFS bets (e.g., Fliff, PrizePicks, Underdog) from sportsbook bets.
 - Groups bets from PrizePicks and Underdog into parlays (since they do not support straight bets).
 - Places bets as "straight" on all other platforms.
+- Advanced DFS lineup optimization with customizable constraints.
+- Real-time player pool updates and contest tracking.
 
 ### 🧩 Bet Selection & Duplicate Handling
 - Ensures only one bet per unique player/market/line combination is placed.
@@ -26,12 +28,13 @@ EV-Arb-Tool is a full-stack Python + React project that identifies and processes
 ### 🖥️ Web Dashboard (React Frontend)
 - View EV bets in a clean, responsive dashboard.
 - Dedicated pages:
-  - DFS Lines: DFS-specific EV plays.
+  - DFS Lines: DFS-specific EV plays and lineup optimization.
   - All Props: Complete prop list across sports.
   - Baseball Props: MLB-only EV bets.
 - Auto-formatted American odds.
 - Color-coded EV % values (green for positive, red for negative).
 - Persistent header and footer for smooth navigation.
+- Dark mode support with modern UI components.
 
 ### 🗂️ Logging
 - Logs every placed bet to placed_bets.csv.
@@ -66,8 +69,9 @@ http://127.0.0.1:8001
 
 ### 3. Frontend Setup (React)
 
-- Navigate to the frontend directory (or project root, depending on structure):
+- Navigate to the frontend directory:
 
+cd sports-betting
 npm install
 npm start
 
@@ -85,16 +89,27 @@ http://localhost:3000
 
 | Endpoint           | Description                       |
 |-------------------|-----------------------------------|
-| /odds             | DFS lines EV bets                 |
-| /props            | All props across sports           |
-| /baseball         | MLB-only EV props                 |
+| /api/odds         | DFS lines EV bets                 |
+| /api/props        | All props across sports           |
+| /api/baseball     | MLB-only EV props                 |
+| /api/dfs          | DFS contests and lineups          |
 
 Access live API docs at:
 http://127.0.0.1:8001/docs
 
+## DFS API Endpoints
+
+| Endpoint                      | Method | Description                          |
+|------------------------------|--------|--------------------------------------|
+| /api/dfs                     | GET    | List all available DFS contests      |
+| /api/dfs/player-pool         | GET    | Get player pool for specific contest |
+| /api/dfs/optimize            | POST   | Optimize lineup with constraints     |
+
 ## Roadmap 🚀
 
-- [ ] Auto-refresh frontend (Live odds updates)
+- [x] Auto-refresh frontend (Live odds updates)
+- [x] Add dark mode support
+- [x] Modern UI components with shadcn/ui
 - [ ] CSV export from frontend dashboard
 - [ ] Add filtering by market and EV %
 - [ ] Add team logos for cleaner visuals
@@ -111,4 +126,3 @@ MIT License
 ## Contact
 
 Questions or suggestions? Open an issue or reach out!
-"""

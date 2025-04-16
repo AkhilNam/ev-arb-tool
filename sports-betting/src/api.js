@@ -1,22 +1,10 @@
 import axios from 'axios';
 
-const api = axios.create({
-  baseURL: 'http://127.0.0.1:8000', // Adjust to your FastAPI backend URL
-});
+const BASE_URL = 'http://localhost:8000';
 
-export const getProps = async () => {
+export const fetchOdds = async () => {
   try {
-    const response = await api.get('/props');
-    return response.data;
-  } catch (error) {
-    console.error('Error fetching props:', error);
-    throw error;
-  }
-};
-
-export const getOdds = async () => {
-  try {
-    const response = await api.get('/odds');
+    const response = await axios.get(`${BASE_URL}/api/odds`);
     return response.data;
   } catch (error) {
     console.error('Error fetching odds:', error);
@@ -24,12 +12,32 @@ export const getOdds = async () => {
   }
 };
 
-export const getBaseballProps = async () => {
+export const fetchBaseballOdds = async () => {
   try {
-    const response = await api.get('/baseball');
+    const response = await axios.get(`${BASE_URL}/api/baseball`);
     return response.data;
   } catch (error) {
-    console.error('Error fetching baseball props:', error);
+    console.error('Error fetching baseball odds:', error);
     throw error;
+  }
+};
+
+export const fetchNcaabOdds = async () => {
+  try {
+    const response = await axios.get(`${BASE_URL}/api/ncaab`);
+    return response.data;
+  } catch (error) {
+    console.error('Error fetching NCAAB odds:', error);
+    throw error;
+  }
+};
+
+export const fetchDfsData = async () => {
+  try {
+    const response = await axios.get(`${BASE_URL}/api/dfs`);
+    return response.data || [];
+  } catch (error) {
+    console.error('Error fetching DFS data:', error);
+    return [];
   }
 };

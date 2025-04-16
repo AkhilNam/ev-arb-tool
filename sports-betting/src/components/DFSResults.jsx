@@ -4,28 +4,27 @@ import { useTheme } from '../context/ThemeContext';
 import { Button } from './ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 import { cn } from '../lib/utils';
-import { fetchOdds } from '../api';
+import { fetchDfsData } from '../api';
 
-const EVResults = () => {
+const DFSResults = () => {
   const { theme } = useTheme();
-  const [odds, setOdds] = useState([]);
+  const [dfsData, setDfsData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [searchTerm, setSearchTerm] = useState('');
-  const [selectedBookmakers, setSelectedBookmakers] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage] = useState(10);
   const [showFilters, setShowFilters] = useState(false);
-  const [sortConfig, setSortConfig] = useState({ key: 'ev', direction: 'desc' });
+  const [sortConfig, setSortConfig] = useState({ key: 'value', direction: 'desc' });
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const data = await fetchOdds();
-        setOdds(data);
+        const data = await fetchDfsData();
+        setDfsData(Array.isArray(data) ? data : []);
         setLoading(false);
       } catch (err) {
-        setError('Failed to fetch odds data');
+        setError('Failed to fetch DFS data');
         setLoading(false);
       }
     };
@@ -42,10 +41,9 @@ const EVResults = () => {
     }));
   };
 
-  const filteredOdds = odds
-    .filter(odd => 
-      odd.player.toLowerCase().includes(searchTerm.toLowerCase()) &&
-      (selectedBookmakers.length === 0 || selectedBookmakers.includes(odd.bookmaker))
+  const filteredData = (dfsData || [])
+    .filter(item => 
+      item.player.toLowerCase().includes(searchTerm.toLowerCase())
     )
     .sort((a, b) => {
       if (a[sortConfig.key] < b[sortConfig.key]) return sortConfig.direction === 'asc' ? -1 : 1;
@@ -53,15 +51,16 @@ const EVResults = () => {
       return 0;
     });
 
-  const totalPages = Math.ceil(filteredOdds.length / itemsPerPage);
-  const currentOdds = filteredOdds.slice(
+  const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+  const currentItems = filteredData.slice(
     (currentPage - 1) * itemsPerPage,
     currentPage * itemsPerPage
   );
 
-  const bookmakers = [...new Set(odds.map(odd => odd.bookmaker))];
-  const positiveEVCount = filteredOdds.filter(odd => odd.ev > 0).length;
-  const averageEV = filteredOdds.reduce((acc, odd) => acc + odd.ev, 0) / filteredOdds.length || 0;
+  const averageValue = filteredData.length > 0
+    ? filteredData.reduce((acc, item) => acc + item.value, 0) / filteredData.length
+    : 0;
+  const highValueCount = filteredData.filter(item => item.value > averageValue).length;
 
   if (loading) {
     return (
@@ -90,8 +89,8 @@ const EVResults = () => {
     <div className="container mx-auto px-4 py-8">
       <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-6">
         <div>
-          <h1 className="text-2xl font-bold tracking-tight">EV Betting Opportunities</h1>
-          <p className="text-muted-foreground">Real-time expected value calculations</p>
+          <h1 className="text-2xl font-bold tracking-tight">DFS Value Plays</h1>
+          <p className="text-muted-foreground">Daily Fantasy Sports value opportunities</p>
         </div>
         <div className="flex gap-4 w-full md:w-auto">
           <div className="relative flex-1 md:flex-none">
@@ -115,35 +114,6 @@ const EVResults = () => {
         </div>
       </div>
 
-      {showFilters && (
-        <Card className="mb-6">
-          <CardHeader>
-            <CardTitle className="text-sm">Bookmakers</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <div className="flex flex-wrap gap-2">
-              {bookmakers.map(bookmaker => (
-                <Button
-                  key={bookmaker}
-                  variant={selectedBookmakers.includes(bookmaker) ? "default" : "outline"}
-                  size="sm"
-                  onClick={() => {
-                    setSelectedBookmakers(prev =>
-                      prev.includes(bookmaker)
-                        ? prev.filter(b => b !== bookmaker)
-                        : [...prev, bookmaker]
-                    );
-                    setCurrentPage(1);
-                  }}
-                >
-                  {bookmaker}
-                </Button>
-              ))}
-            </div>
-          </CardContent>
-        </Card>
-      )}
-
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
         <Card>
           <CardContent className="pt-6">
@@ -152,8 +122,8 @@ const EVResults = () => {
                 <FaChartLine className="text-primary" />
               </div>
               <div>
-                <p className="text-sm text-muted-foreground">Positive EV Bets</p>
-                <p className="text-2xl font-bold">{positiveEVCount}</p>
+                <p className="text-sm text-muted-foreground">High Value Players</p>
+                <p className="text-2xl font-bold">{highValueCount}</p>
               </div>
             </div>
           </CardContent>
@@ -165,8 +135,8 @@ const EVResults = () => {
                 <FaInfoCircle className="text-primary" />
               </div>
               <div>
-                <p className="text-sm text-muted-foreground">Average EV</p>
-                <p className="text-2xl font-bold">{averageEV.toFixed(2)}%</p>
+                <p className="text-sm text-muted-foreground">Average Value</p>
+                <p className="text-2xl font-bold">{averageValue.toFixed(2)}</p>
               </div>
             </div>
           </CardContent>
@@ -179,7 +149,7 @@ const EVResults = () => {
             <thead>
               <tr className="border-b border-input">
                 <th
-                  className="px-4 py-3 text-left text-sm font-medium text-muted-foreground cursor-pointer"
+                  className="px-4 py-3 text-left text-sm font-medium text-muted-foreground cursor-pointer hover:text-foreground transition-colors"
                   onClick={() => handleSort('player')}
                 >
                   Player
@@ -188,41 +158,55 @@ const EVResults = () => {
                   )}
                 </th>
                 <th
-                  className="px-4 py-3 text-left text-sm font-medium text-muted-foreground cursor-pointer"
-                  onClick={() => handleSort('bookmaker')}
+                  className="px-4 py-3 text-left text-sm font-medium text-muted-foreground cursor-pointer hover:text-foreground transition-colors"
+                  onClick={() => handleSort('salary')}
                 >
-                  Bookmaker
-                  {sortConfig.key === 'bookmaker' && (
+                  Salary
+                  {sortConfig.key === 'salary' && (
                     sortConfig.direction === 'asc' ? <FaSortUp className="inline ml-1" /> : <FaSortDown className="inline ml-1" />
                   )}
                 </th>
                 <th
-                  className="px-4 py-3 text-left text-sm font-medium text-muted-foreground cursor-pointer"
-                  onClick={() => handleSort('ev')}
+                  className="px-4 py-3 text-left text-sm font-medium text-muted-foreground cursor-pointer hover:text-foreground transition-colors"
+                  onClick={() => handleSort('projection')}
                 >
-                  EV
-                  {sortConfig.key === 'ev' && (
+                  Projection
+                  {sortConfig.key === 'projection' && (
+                    sortConfig.direction === 'asc' ? <FaSortUp className="inline ml-1" /> : <FaSortDown className="inline ml-1" />
+                  )}
+                </th>
+                <th
+                  className="px-4 py-3 text-left text-sm font-medium text-muted-foreground cursor-pointer hover:text-foreground transition-colors"
+                  onClick={() => handleSort('value')}
+                >
+                  Value
+                  {sortConfig.key === 'value' && (
                     sortConfig.direction === 'asc' ? <FaSortUp className="inline ml-1" /> : <FaSortDown className="inline ml-1" />
                   )}
                 </th>
               </tr>
             </thead>
             <tbody>
-              {currentOdds.map((odd, index) => (
+              {currentItems.map((item, index) => (
                 <tr
                   key={index}
                   className={cn(
-                    "border-b border-input last:border-0",
-                    odd.ev > 0 ? "bg-green-50 dark:bg-green-900/20" : "bg-red-50 dark:bg-red-900/20"
+                    "border-b border-input last:border-0 transition-colors",
+                    item.value > averageValue 
+                      ? "bg-green-50/50 hover:bg-green-100/50 dark:bg-green-900/10 dark:hover:bg-green-900/20" 
+                      : "bg-red-50/50 hover:bg-red-100/50 dark:bg-red-900/10 dark:hover:bg-red-900/20"
                   )}
                 >
-                  <td className="px-4 py-3">{odd.player}</td>
-                  <td className="px-4 py-3">{odd.bookmaker}</td>
+                  <td className="px-4 py-3 text-foreground">{item.player}</td>
+                  <td className="px-4 py-3 text-foreground">${item.salary.toLocaleString()}</td>
+                  <td className="px-4 py-3 text-foreground">{item.projection.toFixed(1)}</td>
                   <td className={cn(
                     "px-4 py-3 font-medium",
-                    odd.ev > 0 ? "text-green-600 dark:text-green-400" : "text-red-600 dark:text-red-400"
+                    item.value > averageValue 
+                      ? "text-green-700 dark:text-green-400" 
+                      : "text-red-700 dark:text-red-400"
                   )}>
-                    {odd.ev.toFixed(2)}%
+                    {item.value.toFixed(2)}
                   </td>
                 </tr>
               ))}
@@ -256,4 +240,4 @@ const EVResults = () => {
   );
 };
 
-export default EVResults;
+export default DFSResults; 
